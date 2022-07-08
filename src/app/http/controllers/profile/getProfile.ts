@@ -2,7 +2,7 @@ import { Request, Response } from 'express';
 
 import * as profileService from '../../services/profile';
 import { APP, Get } from '../../../helpers/decorator';
-import auth from 'app/http/middlewares/auth';
+import auth from '../../middlewares/auth';
 
 @APP('/profile', [auth])
 export default class SignIn {

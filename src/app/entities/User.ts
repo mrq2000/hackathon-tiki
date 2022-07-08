@@ -7,6 +7,12 @@ export default class User {
   @PrimaryColumn()
   id: number;
 
+  @Column({ type: 'varchar' })
+  name: string;
+
+  @Column({ type: 'varchar', nullable: true })
+  avatar_url: string;
+
   @Column({ type: 'integer', default: 0 })
   gold: string;
 

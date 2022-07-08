@@ -11,6 +11,12 @@ export default class User {
   @Column({ type: 'int' })
   price: number;
 
+  @Column({ type: 'int', default: 0 })
+  discount_rate: number;
+
+  @Column({ type: 'int' })
+  rating_average: number;
+
   @Column({ type: 'varchar' })
   img_url: string;
 

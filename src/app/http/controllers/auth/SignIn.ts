@@ -7,7 +7,7 @@ import * as authSchema from '../../validators/auth/signIn';
 
 @APP('/auth')
 export default class SignIn {
-  @Post('sign-in')
+  @Post('/sign-in')
   async signIn(req: Request, res: Response): Promise<void> {
     const params = {
       accessToken: req.body.accessToken,

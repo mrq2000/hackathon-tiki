@@ -1,1538 +1,1906 @@
 {
-  "389145": {
-    "id": 389145,
-    "price": 158000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/53/da/59/cee0de2912c797221dcbd6a4d0af99f8.png",
-    "name": "Chuột không dây Logitech B175 - đầu thu USB 2.4Ghz, pin 1 năm, nhỏ gọn, thiết kế thuận cả 2 tay, phù hợp PC/ Laptop - Hàng chính hãng"
-  },
   "414764": {
     "id": 414764,
     "price": 1470000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4f/25/95/a569eb6c41f6fb2b1d42c5433441fb8b.jpg",
-    "name": "Lò Vi Sóng Sharp R-205VN(S) - 20L - Hàng chính hãng"
+    "rating_average": 0
   },
-  "447667": {
-    "id": 447667,
-    "price": 167000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/df/44/60/c6351e0aa915a4228c32037fe74a0dc8.jpg",
-    "name": "Dầu Gội Clear Sạch Gàu Dầu Gội Sạch Gàu Mát Lạnh Bạc Hà 3X Sức Mạnh Đánh Bay Gàu, Ngứa, Vi Khuẩn 630g"
+  "460371": {
+    "id": 460371,
+    "price": 155000,
+    "discount_rate": 25,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/11/e6/6f/7221efa13d9801991b2481eeda941378.jpg",
+    "rating_average": 4.7
   },
-  "460539": {
-    "id": 460539,
-    "price": 175000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/16/22/1f/6824c6892a27ad9c28b1b4b3f2654fc2.jpg",
-    "name": "Dầu Gội Đầu Clear Men Cool Sport Dầu Gội Bạc Hà Mát Lạnh Cực Đỉnh Suốt Ngày Dài Đánh Bay Gàu, Ngứa & Vi Khuẩn 900g"
+  "460381": {
+    "id": 460381,
+    "price": 145000,
+    "discount_rate": 20,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/3f/58/19/105e8279830900f184293455ccec7151.jpg",
+    "rating_average": 4.7
   },
-  "912679": {
-    "id": 912679,
-    "price": 366000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/96/bc/61/c3928947888b95990da2efef76d1308c.png",
-    "name": "Thùng Bia Tiger 24 Lon (330ml / Lon)"
+  "710785": {
+    "id": 710785,
+    "price": 37000,
+    "discount_rate": 46,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product//h/r/hrtk083-1.u5275.d20170707.t103700.256262.jpg",
+    "rating_average": 4.2
+  },
+  "771471": {
+    "id": 771471,
+    "price": 38000,
+    "discount_rate": 33,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product//1/_/1.u4064.d20170806.t210235.204282.jpg",
+    "rating_average": 4.45
+  },
+  "1007137": {
+    "id": 1007137,
+    "price": 45500,
+    "discount_rate": 30,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f3/27/cb/89a854446e7c683e5bd2372f3d1d29d6.jpg",
+    "rating_average": 4.7
   },
   "1565659": {
     "id": 1565659,
     "price": 98000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/13/cc/03/909ca2322e0903fb5ceaaac41d16e986.jpg",
-    "name": "Vũ Trụ Trong Vỏ Hạt Dẻ (Tái Bản 2018)"
-  },
-  "1657931": {
-    "id": 1657931,
-    "price": 75000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/be/7c/09/889b1c1b5bcf2b24d06f51f8e8b777cb.png",
-    "name": "Vợt Muỗi Sunhouse SHE-E200 - Vàng"
+    "rating_average": 5
   },
   "2616909": {
     "id": 2616909,
     "price": 445000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/42/7f/47/fc63a7f33677f5efd10c8afd501fb55c.jpg",
-    "name": "Nước Tẩy Trang Làm Sạch Sâu & Kiểm Soát Bã Nhờn Cho Da Dầu Nhạy Cảm La Roche-Posay Micellar Water Ultra Oily Skin 400ml"
-  },
-  "2917513": {
-    "id": 2917513,
-    "price": 84000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/00/8e/97/7db1643c8fee557ee83d28ed53fcb708.jpg",
-    "name": "Hoang Dã"
+    "rating_average": 5
   },
   "3071853": {
     "id": 3071853,
     "price": 147420,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f6/c4/c1/37cc7da534a3a25e39e4b5e32bf5f6ba.jpg",
-    "name": "Homo Deus: Lược Sử Tương Lai"
+    "rating_average": 5
   },
-  "4675863": {
-    "id": 4675863,
-    "price": 89000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a6/8b/0f/bcb3fd8dbcc9117da2d9bae0d2766fd6.jpg",
-    "name": "BG Xà đơn treo tường cao cấp treo tường gắn cửa độ dài tùy chỉnh 60-100cm (hàng nhập khẩu)"
+  "4313653": {
+    "id": 4313653,
+    "price": 48750,
+    "discount_rate": 35,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/81/fa/10/d8966af4ec34c97fa22e4422b7b5ca42.jpg",
+    "rating_average": 4.95
   },
-  "7352431": {
-    "id": 7352431,
-    "price": 198000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/05/0c/ab/72355cfcf510153741c300315889bb36.jpg",
-    "name": "Dầu Gội và Xả Thảo Dược Hà Thủ Ô Giảm Rụng Tóc, Bạc Tóc Cocayhoala 300g"
+  "4530557": {
+    "id": 4530557,
+    "price": 23000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a2/99/05/a1aa664ec98a9179b23c1ba02ea4e570.jpg",
+    "rating_average": 4.7
+  },
+  "7804969": {
+    "id": 7804969,
+    "price": 33000,
+    "discount_rate": 31,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/21/1d/90/efdc34bf2e79d03c37f8c2574fbf3f54.jpg",
+    "rating_average": 4.7
   },
   "7833728": {
     "id": 7833728,
     "price": 55250,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/17/02/d1/52dde080f00d414a2d441c544c76d9c9.jpg",
-    "name": "Dạy Con Làm Giàu (Tập 1) - Để Không Có Tiền Vẫn Tạo Ra Tiền - Cha Giàu Cha Nghèo (Tái Bản)"
+    "rating_average": 0
+  },
+  "8315170": {
+    "id": 8315170,
+    "price": 19990,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4f/d7/b5/1c0e219a0413ed21745387f06c4669e0.jpg",
+    "rating_average": 4.6
   },
   "10005245": {
     "id": 10005245,
-    "price": 135000,
+    "price": 141000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0a/f6/38/bc10734989977da424642a1c4750eee2.jpg",
-    "name": "Đàn Ông Sao Hỏa Đàn Bà Sao Kim"
+    "rating_average": 0
   },
   "10131404": {
     "id": 10131404,
     "price": 3599000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/92/b0/df/e683b63d58d6b3ff181190ab0d57bf6d.jpg",
-    "name": "Máy lọc không khí Sharp FP-J40E-W - Hàng chính hãng"
+    "rating_average": 0
   },
-  "11482677": {
-    "id": 11482677,
-    "price": 186000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a6/1e/c9/bb2b006d46f1c6c54f9c66eac99ca7ae.jpg",
-    "name": "Cuốn Theo Chiều Gió (Tiểu Thuyết)"
+  "10409796": {
+    "id": 10409796,
+    "price": 304000,
+    "discount_rate": 16,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fa/e7/5b/b445b86f245ef5dc6076e40731932971.jpg",
+    "rating_average": 4.8
   },
   "12106733": {
     "id": 12106733,
     "price": 69000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ee/a9/50/d23e2d4dc76e4870cab66b76d48f8801.jpg",
-    "name": "Làm Đĩ - Bìa Cứng (Tái Bản)"
+    "rating_average": 0
   },
-  "13853076": {
-    "id": 13853076,
-    "price": 239000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ec/02/56/e3e98a698e9eccd3cdf85ea3c9e23148.jpg",
-    "name": "Túi Ngủ Cao Cấp Văn Phòng + Đi Phượt GSTN02 (Hàng Xuất Khẩu)"
+  "13287465": {
+    "id": 13287465,
+    "price": 78000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7b/b3/c6/54737f70090a7e06a3bd517ea9e92be9.jpg",
+    "rating_average": 0
   },
-  "14504343": {
-    "id": 14504343,
-    "price": 83200,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/43/9c/25/e5f3721a8bbbccd2e7dae7199471034a.jpg",
-    "name": "Tổng Ôn Tập Đề Thi Olympic 30 Tháng 4 Tiếng Anh 10"
-  },
-  "15096089": {
-    "id": 15096089,
+  "14011533": {
+    "id": 14011533,
     "price": 17000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/dc/91/1c/81edc107fdf907640eb54535303bbe0d.jpg",
-    "name": "Mắt Kính Thug Life 6 Chấm Siêu Ngầu (Màu Đen)"
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a4/57/55/57620fbbdd52dd7316334a00b819cf20.png",
+    "rating_average": 3.7
+  },
+  "14453485": {
+    "id": 14453485,
+    "price": 15000,
+    "discount_rate": 48,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/76/c1/00/ffee04049f04366aaba2a75a6a5c0d1f.png",
+    "rating_average": 4.7
+  },
+  "14617774": {
+    "id": 14617774,
+    "price": 979000,
+    "discount_rate": 5,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/50/27/15/203f5b1d3e334b6c877eaf8bfd4cfe7e.jpg",
+    "rating_average": 4.7
+  },
+  "16419682": {
+    "id": 16419682,
+    "price": 728000,
+    "discount_rate": 28,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b5/64/77/d84e367bc08d4f1f7a8d95e2cc638fa1.jpg",
+    "rating_average": 0
   },
   "16420565": {
     "id": 16420565,
     "price": 1049000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0d/81/2c/fa5b84607658cc007c0759e98ab53c6e.jpg",
-    "name": "Camera IP Ngoài Trời Chống Nước Ezviz C3WN 2Mp Full HD1080P - Hàng Chính Hãng"
+    "rating_average": 3
+  },
+  "19749769": {
+    "id": 19749769,
+    "price": 50000,
+    "discount_rate": 19,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3f/11/87/5838983b18a5e03ef6581baab7bae344.jpg",
+    "rating_average": 3.9
   },
   "19792256": {
     "id": 19792256,
     "price": 49000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a9/e4/f9/9a0900b2352c6d7a608e003146ccda7e.jpg",
-    "name": "Chuyện Con Mèo Dạy Hải Âu Bay (Tái Bản 2019)"
+    "rating_average": 0
   },
-  "20200136": {
-    "id": 20200136,
-    "price": 11711000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e0/0f/c1/1b3258e4cc771133babe784366496d36.jpg",
-    "name": "Máy Giặt Sấy Cửa Trước Inverter Electrolux EWW8023AEWA (8kg/5kg) - Hàng Chính Hãng"
+  "19814067": {
+    "id": 19814067,
+    "price": 78000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b2/cd/9e/b11b8de09c56cd3551c779915cefa0e6.png",
+    "rating_average": 4.6
+  },
+  "21101765": {
+    "id": 21101765,
+    "price": 501000,
+    "discount_rate": 9,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/46/31/d4/e3778e7d381586f60d7567d0dc2c1c9c.jpg",
+    "rating_average": 4.5
   },
   "21367457": {
     "id": 21367457,
     "price": 60800,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ee/10/85/c6baa8f0f71ebf5dd5a4f35657ffccf3.jpg",
-    "name": "Tôn Tử Binh Pháp ( Tái Bản )"
-  },
-  "21441057": {
-    "id": 21441057,
-    "price": 161000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/68/52/05/6d161db76be1b90be7379eb7813db386.png",
-    "name": "Chảo Chống Dính Đá Sunhouse SBD18"
+    "rating_average": 0
   },
   "21857291": {
     "id": 21857291,
-    "price": 279000,
+    "price": 245000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d5/df/e3/1dbecc2a07728a69eda4206662f08f3d.jpg",
-    "name": "Hub chia USB Type-C 5 Cổng HDMI/USB 3.0/SD/TF"
+    "rating_average": 0
   },
-  "24644149": {
-    "id": 24644149,
-    "price": 1669000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/b3/b0/1b/0d57a009ab98e5a5bec1b1fd0c589371.jpg",
-    "name": "Nồi Chiên Không Dầu Lock&Lock EJF276 (3.0 Lít) - Hàng Chính Hãng"
+  "24457454": {
+    "id": 24457454,
+    "price": 154000,
+    "discount_rate": 22,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/44/60/26/634778b12c1c0dbe1ac4c385d4766540.jpg",
+    "rating_average": 4.7
   },
-  "26314426": {
-    "id": 26314426,
-    "price": 45000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/61/e0/35/439f6dbfde23bf8a58ab2e61cdf228d3.jpg",
-    "name": "Dây Cáp Mạng Cat6 Bấm Sẵn 2 đầu"
+  "25022006": {
+    "id": 25022006,
+    "price": 38999,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/eb/26/21/430c6136de972bddda846c81a4250b97.jpg",
+    "rating_average": 4.6
   },
   "26902374": {
     "id": 26902374,
     "price": 70000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/92/c7/c2/c9d9e910be36dc1171fda3d732ad98c3.jpg",
-    "name": "Đồ chơi bảng chữ cái Tiếng Việt bằng gỗ"
+    "rating_average": 0
   },
   "27609946": {
     "id": 27609946,
     "price": 450000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/c8/ea/03/f368ad660a921a7974fc081d1b438e63.jpg",
-    "name": "Ổ cứng SSD 128GB Lexar NS100 2.5-Inch SATA III_Hàng chính hãng"
+    "rating_average": 0
   },
-  "33761260": {
-    "id": 33761260,
-    "price": 27160,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/86/06/14/8da4a9b3979159883f089a636d44779b.png",
-    "name": "Bao Cao Su Kéo Dài Thời Gian Quan Hệ và Có Gai Innova Đen - Hộp 3 Cái"
+  "36785535": {
+    "id": 36785535,
+    "price": 1039000,
+    "discount_rate": 53,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/65/3a/62/fdc079d970753f600e0a932f72b02469.jpg",
+    "rating_average": 4.7
+  },
+  "37740023": {
+    "id": 37740023,
+    "price": 35000,
+    "discount_rate": 28,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f0/41/dd/d8b4228e95aa87931abb2717f399efb8.jpg",
+    "rating_average": 4.7
+  },
+  "38147993": {
+    "id": 38147993,
+    "price": 269000,
+    "discount_rate": 40,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/47/c9/6e/28d0a9ce7415cfeb73538ad898989991.jpg",
+    "rating_average": 4.7
+  },
+  "41199606": {
+    "id": 41199606,
+    "price": 238000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f5/a1/d1/8f1a632761ee18cb3ecf88b1429110cb.jpg",
+    "rating_average": 0
+  },
+  "43105935": {
+    "id": 43105935,
+    "price": 30799,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ae/6c/a0/bf424aea868f09372b7be492d6cb6709.jpg",
+    "rating_average": 4.45
   },
   "43833689": {
     "id": 43833689,
     "price": 73500,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9e/e5/f7/9d4173dde0eb6f5148789e03e9af3a78.jpg",
-    "name": "Mình Sẽ Đi Cuối Đất Cùng Trời"
+    "rating_average": 0
+  },
+  "44251582": {
+    "id": 44251582,
+    "price": 196000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9b/b9/f5/01eb49d25743419c809e426d8a0f66cb.jpg",
+    "rating_average": 4.7
   },
   "45358882": {
     "id": 45358882,
     "price": 19800,
+    "discount_rate": 10,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8a/b9/ab/ae3731ed6f4a120931b6313f5d0c8277.jpg",
-    "name": "Ghép Hình - Siêu Nhân 1 (Tái Bản)"
+    "rating_average": 0
   },
-  "48231521": {
-    "id": 48231521,
-    "price": 1460000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/df/b3/fd/e9768b545daf81629cd86cabc3ba9a69.jpg",
-    "name": "Đồng Hồ Nam Casio G - Shock Quartz Dw5600E - 1V Với Dây Đeo Bằng Nhựa, Màu Đen Casio Men'S G - Shock Quartz Watch"
-  },
-  "48627056": {
-    "id": 48627056,
-    "price": 545000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/53/bb/74/5ee4c1270addb6f18424c588df438daf.jpg",
-    "name": "Máy Massage Cầm Tay Đa Năng Cao Cấp KINGTECH - Mát Xa Chuyên Sâu Cho Cổ, Vai Gáy, Bụng, Lưng, Cánh Tay, Chân - Giảm Đau Mỏi Toàn Thân Cho Dân Văn Phòng, Gymer, Người Già, Người Lao Động Nặng - Món Quà Tuyệt Vời Cho Ông Bà, Bố Mẹ - Hàng Chính Hãng"
-  },
-  "48970734": {
-    "id": 48970734,
-    "price": 147000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c6/47/c5/47e08ec3358a9e62aab04fbee5f6a684.jpg",
-    "name": "Đai váy dây nịt nữ Nutushop kiểu dáng thời trang cá tính bản nhỏ hàng cao cấp NT258"
-  },
-  "49745028": {
-    "id": 49745028,
-    "price": 11000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cc/4b/7c/ec83a30ffe584690fa7a46c289d49e28.jpg",
-    "name": "MŨ LƯỠI TRAI NHIỀU MÀU"
-  },
-  "50702715": {
-    "id": 50702715,
-    "price": 8000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product//1/k/1kg.u2566.d20170313.t174552.479195.jpg",
-    "name": "Tạ Tập Tay Nhựa VN Sportslink - Xanh"
-  },
-  "51662145": {
-    "id": 51662145,
-    "price": 23999,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0c/52/8c/b98d2798a6ed7a4b6dfca64bc458e640.jpg",
-    "name": "Keo dán siêu dính X2000 (50g) dán gỗ, sắt, sứ, kim loại đa năng"
-  },
-  "52704214": {
-    "id": 52704214,
-    "price": 7999,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/22/c3/d8/1d73daba06608656be8b23b8983d6375.jpg",
-    "name": "Tấm kính che mặt chống giọt bắn - Chống Bụi- An Toàn Dễ Sử Dụng"
-  },
-  "52822812": {
-    "id": 52822812,
-    "price": 83000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/25/9a/38/4621875d055cc2eb566e1a75444d0095.jpg",
-    "name": "Hard Drive HDD Caddy Cover Bezel for IBM Lenovo ThinkPad X220 X220i X220T"
-  },
-  "52880265": {
-    "id": 52880265,
-    "price": 4500,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/04/36/9e/7cebae08effc7ae9ff1ecedf08f3d5ee.jpeg",
-    "name": "Mạch Sạc Pin Li-ion 18650 3.7v TP4056  TC4056 Có Bảo Vệ Mạch Sạc Pin 1S"
-  },
-  "53091106": {
-    "id": 53091106,
-    "price": 50000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7a/4a/ba/e4c5a2a9861f6303cfd6e84ae86d596b.jpg",
-    "name": "Tấm Che Chống Nắng Xe Hơi 4,5,7 Chỗ  Phản Quang, cách nhiệt kính trước cho xe ô tô dầy 3 lớp, 1 mặt tráng nhôm"
-  },
-  "53981562": {
-    "id": 53981562,
+  "47220818": {
+    "id": 47220818,
     "price": 38000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ef/01/d0/b385bd3eb12285fafe98126373219d93.jpg",
-    "name": "Thức Ăn Cho Mèo Tất Cả Các Giống Vị Cá Ngừ - Hello Cat Tuna"
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f2/3b/d1/256422d46990934e5a9c51cd64ec4a53.jpg",
+    "rating_average": 4.95
   },
-  "55205646": {
-    "id": 55205646,
-    "price": 270000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/eb/3e/2c/0bbef282485ff45f6ffde41cc53b7015.jpg",
-    "name": "Kính bơi cận CLEACCO đủ độ cận từ 2 độ tới 7 độ chất liệu PC chống nước , chống tia UV , Chống sương mù , bảo vệ mắt - Hàng chính hãng"
+  "47342678": {
+    "id": 47342678,
+    "price": 127000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/54/c8/f8/852db0cf479b5761b8be1fd4dd2df043.jpg",
+    "rating_average": 0
+  },
+  "50751279": {
+    "id": 50751279,
+    "price": 49300,
+    "discount_rate": 29,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b2/56/d3/17262447faaef713be60d6b25ec0551d.jpg",
+    "rating_average": 4.7
+  },
+  "52484490": {
+    "id": 52484490,
+    "price": 16890,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ee/36/31/550fb17c9c27879bf37cd08aa4965e59.png",
+    "rating_average": 4.8
+  },
+  "52758100": {
+    "id": 52758100,
+    "price": 95000,
+    "discount_rate": 46,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1b/c9/55/729ad4b845e67e30ed3b8c2e4a8a15f3.jpg",
+    "rating_average": 4.8
+  },
+  "55171098": {
+    "id": 55171098,
+    "price": 44500,
+    "discount_rate": 26,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4c/e8/03/fb00dd23f010c6f29d958f971b785044.jpg",
+    "rating_average": 4.7
   },
   "55503839": {
     "id": 55503839,
     "price": 33300,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5b/4d/4b/41a3e13af8752aef6a1b76dd9153e642.jpg",
-    "name": "Tập Đánh Vần Tiếng Việt - Bí Quyết Giúp Con Đọc Tiếng Việt Thông Thạo 4-6 tuổi"
-  },
-  "55532351": {
-    "id": 55532351,
-    "price": 245000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/97/c5/de/b357eea3f72f731a77612f62a24b26fa.jpg",
-    "name": "IELGY  Korean version of 100 lap bag ins super hot hand-in-hand shoulder bag fashion cato special bag"
-  },
-  "55550853": {
-    "id": 55550853,
-    "price": 235000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6a/a9/df/8c58eba702cf7203852721dd7c62a730.jpg",
-    "name": "Túi nữ đeo vai đan len phong cách Hàn Quốc thời trang"
+    "rating_average": 0
   },
   "55727602": {
     "id": 55727602,
     "price": 1199000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/06/55/22/a2fdb771a319800779590d61ffaf66a7.png",
-    "name": "Nồi cơm điện từ Tefal RK732168 1.8L - 750W - Hàng chính hãng"
-  },
-  "55814420": {
-    "id": 55814420,
-    "price": 150000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a0/a2/37/172b0c3030fd239adc91a6573c4039ad.jpg",
-    "name": "IELGY women's casual shoes flower embroidered linen insole comfortable flat shoes women"
-  },
-  "56074898": {
-    "id": 56074898,
-    "price": 80000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0e/ab/6b/75aec6f0cff0d9a8d8a288123ba17186.jpg",
-    "name": "Vòng tay nam nữ 108 hạt 8 ly gỗ đàn hương"
-  },
-  "56692532": {
-    "id": 56692532,
-    "price": 72000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0b/e4/9d/9819a2afb854e301ebaf93e8e4a8a9d3.jpg",
-    "name": "Tôi Từng Nghĩ Mọi Thứ Sẽ Ổn Khi Trở Thành Người Lớn (Tặng Kèm 1 Bookmark)"
+    "rating_average": 0
   },
   "56697257": {
     "id": 56697257,
     "price": 59760,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/df/e1/13/f2de3d2e036a443a7428ce2e18ec9386.jpg",
-    "name": "Bí Mật Và Thực Tế Về Tự Kỉ Ám Thị (Self Mastery Through Conscious Autosuggestion) - Cuốn Sách Về Tự Kỉ Ám Thị Được Freud Và Các Bậc Thầy Phân Tâm Trích Dẫn Và Nghiên Cứu - Liệu Pháp Tự Chữa Lành Được Napoleon Hill Và Tony Robbin Sử Dụng Đều Xuất Phát Từ Đây"
-  },
-  "56941523": {
-    "id": 56941523,
-    "price": 106000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/3b/dc/fc/8e09c05803ac5620cbef4bd1b614cc53.jpg",
-    "name": "Ly nhựa 2 lớp LocknLock kèm ống hút HAP507 750ml"
+    "rating_average": 0
   },
   "57147424": {
     "id": 57147424,
     "price": 42222,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1c/d7/33/0e08766e2f41e29d585dd35e9d47cd80.jpg",
-    "name": "Kẹo xịt chua cứu hỏa Kidsmania Quick Blast 58gr (Màu ngẫu nhiên)"
+    "rating_average": 4.3
   },
-  "57762732": {
-    "id": 57762732,
-    "price": 129350,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e2/bb/a0/cefa8cc641e90ccc6c32d81008ecff98.jpg",
-    "name": "Nhà Đầu Tư Thông Minh (Tái Bản 2020)"
+  "57217247": {
+    "id": 57217247,
+    "price": 699000,
+    "discount_rate": 22,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/44/b7/c6/3394976d2211b144411a0373532e5063.jpg",
+    "rating_average": 4.7
   },
-  "57867024": {
-    "id": 57867024,
-    "price": 329000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/07/4e/f6/a39b3b27136c675d6305451a2016cc3e.png",
-    "name": "Bộ Lau Nhà Xoay 360 Độ Sunhouse Ks-Cl350PO"
+  "57455185": {
+    "id": 57455185,
+    "price": 28000,
+    "discount_rate": 3,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/db/08/ce/314704b70984a93d1af3c6dc4f3f5e59.png",
+    "rating_average": 4.8
   },
-  "57921973": {
-    "id": 57921973,
-    "price": 659000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/51/6c/8e/0cd2981713cf3f9b3e23f3a1c6b57714.jpg",
-    "name": "Nồi Chiên Ngập Dầu Lock&Lock EJF716SLV (1.5 Lít) - Hàng chính hãng"
+  "57718256": {
+    "id": 57718256,
+    "price": 1599000,
+    "discount_rate": 36,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/96/d5/6b/c4f488d665a1e5ac55d2c6ae63f301b4.jpg",
+    "rating_average": 3.7
   },
-  "58744960": {
-    "id": 58744960,
-    "price": 138000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/82/83/7f/f689edf2e352475694f346cf33c3362f.png",
-    "name": "Nước tẩy trang L'Oreal Paris 3-in-1 Micellar Water 400ml"
+  "58393093": {
+    "id": 58393093,
+    "price": 1115000,
+    "discount_rate": 55,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/64/4a/25/24582295fa73f7aa02c5e35828ffd8d8.png",
+    "rating_average": 4.7
   },
-  "67851829": {
-    "id": 67851829,
-    "price": 99000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/10/4d/ec/b732f8d0fff14dcf76bfb44ed70cafe9.jpg",
-    "name": "Balo đi học màu đen EV01 thời trang unisex, cặp học sinh nam nữ cá tính"
+  "59264229": {
+    "id": 59264229,
+    "price": 409000,
+    "discount_rate": 28,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bb/f8/b8/a92f15b67daf5409abdc4a78f071b863.jpg",
+    "rating_average": 4.7
+  },
+  "66507793": {
+    "id": 66507793,
+    "price": 319000,
+    "discount_rate": 29,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/44/19/60/19e0c55b9e9638c05e39a769ff38af28.jpg",
+    "rating_average": 4.6
+  },
+  "66511024": {
+    "id": 66511024,
+    "price": 29000,
+    "discount_rate": 41,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/45/a7/4c/7115eaf45d90987ae9ae536e835005a7.png",
+    "rating_average": 4.8
   },
   "67989898": {
     "id": 67989898,
     "price": 399000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f5/85/a5/fc0dc09daa907a9eec7d1f79b533609a.jpg",
-    "name": "Bàn Học Bàn Làm Việc Kết Hợp Kệ Sách GP73"
+    "rating_average": 0
+  },
+  "68349508": {
+    "id": 68349508,
+    "price": 21000,
+    "discount_rate": 58,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1c/48/c7/c6c95bea38add76e11ea12e947999272.jpg",
+    "rating_average": 4.7
+  },
+  "68360302": {
+    "id": 68360302,
+    "price": 43000,
+    "discount_rate": 34,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fc/d3/f5/39441922a2fba1198dcb2cee6fe80f22.jpg",
+    "rating_average": 4.6
   },
   "70662253": {
     "id": 70662253,
-    "price": 515000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/91/48/49/132da4f9427abce92522b00dd357359a.jpg",
-    "name": "Kem Chống Nắng Không Màu Kiểm Soát Dầu La Roche-Posay Anthelios XL Dry Touch Gel-Cream SPF 50+ UVB & UVA (50ml)"
+    "price": 489000,
+    "discount_rate": 5,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/09/c9/22/5e9f7450277c025d82d62a43a1ada116.jpg",
+    "rating_average": 4.7
+  },
+  "70817452": {
+    "id": 70817452,
+    "price": 119000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/99/1b/98/d0b002edd90c53b75a16b0d13935f836.jpg",
+    "rating_average": 0
+  },
+  "71051988": {
+    "id": 71051988,
+    "price": 290000,
+    "discount_rate": 46,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3a/5e/d1/d33ea8364abdee1036a71d5bc2d1e22f.jpg",
+    "rating_average": 4.8
+  },
+  "71091278": {
+    "id": 71091278,
+    "price": 114000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6d/ae/3d/372e83c6555d18d9d0728f6f3a16e98c.png",
+    "rating_average": 5
   },
   "72081063": {
     "id": 72081063,
     "price": 30000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c3/43/83/aefad5399f70899415b92d53ba9c0f24.jpg",
-    "name": "Tất chống trơn đá bóng, vớ chống trơn chống trượt đá banh"
+    "rating_average": 4.5
   },
-  "72542509": {
-    "id": 72542509,
-    "price": 69000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4b/96/61/ac310ce3e6fa184067a9fcd935217b05.jpg",
-    "name": "Raw Vegan – Sức Mạnh Chữa Lành Của Thực Vật (Tặng kèm bookmark)"
+  "72882553": {
+    "id": 72882553,
+    "price": 57000,
+    "discount_rate": 32,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/27/2e/63/308986aa2c17293af227162874ad24a3.jpg",
+    "rating_average": 4.8
   },
-  "72557905": {
-    "id": 72557905,
-    "price": 175000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7a/41/41/0827b43a2cf9dc18bebebae83abe121d.jpg",
-    "name": "Bơm Đạp Chân  Xe Đạp, Xe Máy, Xe Ô tô, Xe Hơi Đa Năng Dễ Dàng Xếp Gọn Và Sử Dụng Kèm 3 Chốt Chân Lỗ bơm bóng và thú nhún  thương hiệu bơm xe KIOTOOL"
+  "73165600": {
+    "id": 73165600,
+    "price": 1549000,
+    "discount_rate": 11,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/18/ae/0d/47e13c2194707b11a7042b99c80c821e.jpg",
+    "rating_average": 5
   },
-  "73258681": {
-    "id": 73258681,
+  "73746789": {
+    "id": 73746789,
+    "price": 388000,
+    "discount_rate": 14,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/67/95/dd/e1e3e07cba2dd42c395e20500812402f.jpg",
+    "rating_average": 4.95
+  },
+  "74743103": {
+    "id": 74743103,
+    "price": 25000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5f/66/ad/52e90dc1a096eaa568c447046358afb8.png",
+    "rating_average": 4.7
+  },
+  "76198706": {
+    "id": 76198706,
+    "price": 24900000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/76/81/64/09d4536ae554c26674fb29c728ce8cf4.PNG",
+    "rating_average": 5
+  },
+  "76479072": {
+    "id": 76479072,
+    "price": 49000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/98/50/61/f44bbe26e02b6ae08a53fbc6f6e3e839.jpg",
+    "rating_average": 4.7
+  },
+  "79191507": {
+    "id": 79191507,
+    "price": 199000,
+    "discount_rate": 20,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/62/80/d3/87480c50a6f8120ff20c4b564f1944b2.jpg",
+    "rating_average": 4.7
+  },
+  "83161336": {
+    "id": 83161336,
+    "price": 105000,
+    "discount_rate": 33,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/98/17/b0/d7a0e71ff6a4c624f3e9d40b2eb6dba6.PNG",
+    "rating_average": 3.7
+  },
+  "84170043": {
+    "id": 84170043,
+    "price": 518700,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2c/ef/30/143e51dbd035049e7cae1a30a9667a27.jpg",
+    "rating_average": 0
+  },
+  "85386059": {
+    "id": 85386059,
     "price": 309000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3e/5b/96/3808b8c8150bae540f10d4253477bf2f.jpg",
-    "name": "Tai nghe Bluetooth V5.0 True Wireless Earbuds điều khiển cảm ứng hỗ trợ nghe đơn hoặc đôi 2 bên tai với micro HD chống ồn dành cho smartphones"
+    "discount_rate": 31,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5e/f3/b4/6f2a8617a723c27004bed9b13e099d2a.jpg",
+    "rating_average": 5
   },
-  "73568379": {
-    "id": 73568379,
-    "price": 10000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/57/75/b6/e13e811a8fc829b003582acae024a6aa.JPG",
-    "name": "Kính mát, mắt kính 2508 nhiều màu lựa chọn"
+  "85886319": {
+    "id": 85886319,
+    "price": 199000,
+    "discount_rate": 38,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b0/ac/3b/fe682c97fa10540ecad400c9f4b3985d.jpg",
+    "rating_average": 4.8
   },
-  "73644584": {
-    "id": 73644584,
-    "price": 30000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f0/37/0e/e6ae88ec62c95a237a94cb0f6dc6c902.png",
-    "name": "Dây Đeo Thay Thế Silicone Vòng Tay Thông Minh Mi Band 5 - Hàng Chính Hãng"
+  "88089673": {
+    "id": 88089673,
+    "price": 209000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3e/0e/f8/b174a60472b6760477fdce278a8283b1.jpg",
+    "rating_average": 4.45
   },
-  "74014046": {
-    "id": 74014046,
-    "price": 69000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/24/66/88/c59ad84734f7bfb709bc58d5f7bf74c5.jpg",
-    "name": "Bộ 6 Ống Hút Silicone Có Thể Tái Sử Dụng Kèm 2 Cọ Rửa Lock&Lock TLL080 ( 250 x 78 mm)"
+  "88241448": {
+    "id": 88241448,
+    "price": 260000,
+    "discount_rate": 35,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8a/7b/b1/0aa5aeba0afbd7368bef9b51e223ada9.jpg",
+    "rating_average": 4.45
   },
-  "74021317": {
-    "id": 74021317,
-    "price": 70200,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5e/18/24/2a6154ba08df6ce6161c13f4303fa19e.jpg",
-    "name": "Cây Cam Ngọt Của Tôi"
+  "89427204": {
+    "id": 89427204,
+    "price": 8300,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8c/45/9f/676db954f64ce0279e31e7e2d6c432b9.jpg",
+    "rating_average": 4.6
   },
-  "74488873": {
-    "id": 74488873,
-    "price": 139000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/53/d0/36/0a52633b8fc0247bd4b62758dea323de.jpg",
-    "name": "Set 3 túi unisex du lịch đựng đồ dùng cá nhân thẻ tiền, túi đựng mỹ phẩm cho nam nữ đa năng- Hàng chính hãng"
+  "89792998": {
+    "id": 89792998,
+    "price": 76000,
+    "discount_rate": 17,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3f/80/7d/c9a52b1a132ca1010cfc80b1cbd1822a.jpg",
+    "rating_average": 0
   },
-  "76366605": {
-    "id": 76366605,
-    "price": 3490000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f2/4b/d5/36dd2e0733e5846d60dba396ae730d63.jpg",
-    "name": "Nồi Chiên Không Dầu Hafele AF-602A 11 Lít – Hàng Chính Hãng"
+  "91013563": {
+    "id": 91013563,
+    "price": 48000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0d/90/1a/7d666e99460c55e14b4f84d579e62495.jpg",
+    "rating_average": 4.8
   },
-  "78280253": {
-    "id": 78280253,
-    "price": 226000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f7/d4/a5/eb3d18f5803b70dc02fceadb8ef95360.png",
-    "name": "Bộ 2 Nước Súc Miệng Ngừa Sâu Răng Listerine Natural Green Tea 750ml x2 chai"
+  "91277007": {
+    "id": 91277007,
+    "price": 143200,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/11/e7/d6/a29375a0484cb1ed578b51d1b46cf36c.jpg",
+    "rating_average": 0
   },
-  "78598381": {
-    "id": 78598381,
-    "price": 66490,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c8/9e/37/e44bd3ddf2bfc50fc0ce6179df0afed2.jpg",
-    "name": "Tâm Lý Học Tính Cách (Tặng Kèm: 1 Bookmark)"
+  "91728020": {
+    "id": 91728020,
+    "price": 18000,
+    "discount_rate": 64,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7d/0c/d0/7da1c819f51bbc0893a291817bc9bb49.jpg",
+    "rating_average": 4.8
   },
-  "87021858": {
-    "id": 87021858,
-    "price": 459000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/07/1e/a0/9ae31ecad1aa8537f00bf2d7e0fc65b6.jpg",
-    "name": "Combo 3 kệ gỗ treo tường trang trí 43-51-58cm, kèm chốt âm tường, phụ kiện vít tắc kê – Hàng chính hãng"
+  "91763297": {
+    "id": 91763297,
+    "price": 47000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/72/fe/1b/1c1baccd12b1551862442c5c84917cf0.jpg",
+    "rating_average": 4.8
   },
-  "87913382": {
-    "id": 87913382,
-    "price": 28000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/75/ec/f2/4d1df1acb79c13339a7c6373ca13219c.jpg",
-    "name": "Tinh Dầu Xông Phòng Nguyên Chất, Tự Chọn Mùi | Chính Hãng, Có Kiểm Định Chất Lượng | Tinh Dầu TIDAMO Xông Thơm Phòng, Khử Khuẩn, Bảo Vệ Sức Khỏe và Đuổi Muỗi"
-  },
-  "88913621": {
-    "id": 88913621,
-    "price": 8900,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7c/a7/25/ff4ca9e5d90c05e10ae813c7bc925bbc.jpg",
-    "name": "Pát U kẹp dưới pin mặt trời"
-  },
-  "88979578": {
-    "id": 88979578,
-    "price": 75000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c9/a6/df/47a96837a5b148a6c49cde4b5d128c23.jpg",
-    "name": "[Ảnh Thật] Dép Quai Ngang, Dép Đi Trong Nhà, Ngoài Trời Họa Tiết Cá Sấu Siêu Dễ Thương, Logo Nổi. Form Nhỏ Các Bạn Đặt Tăng 1 Size Nha Mã DP19"
-  },
-  "90218797": {
-    "id": 90218797,
-    "price": 213000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fe/4e/c6/cccb76f1cb2198296e170ca85f1fb9ca.png",
-    "name": "Bộ 2 Chai Nước súc miệng giúp nướu chắc khỏe Listerine Gum Care 750ml/chai 101109930"
-  },
-  "90469260": {
-    "id": 90469260,
-    "price": 45000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c1/42/de/89671b0f9ef253b66249e14d3a2145df.jpg",
-    "name": "Túi đeo thời trang thể thao cho nam nữ Rhino B901 dùng khi chạy bộ, đạp xe, leo núi, vải không thấm nước, túi giá rẻ chính hãng Rhino Store"
-  },
-  "92437330": {
-    "id": 92437330,
-    "price": 11750000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/67/79/e2/2c6e383dc64c23cfd081b1cdbf95d334.jpg",
-    "name": "Smart Tivi Aqua 4K 58 inch LE58AQT6610UG Mới 2021"
-  },
-  "93933235": {
-    "id": 93933235,
-    "price": 290000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0e/44/e9/9fe577ddc280b757ef41d6f04d9cdc63.jpg",
-    "name": "Máy Xay Thịt 2 Lưỡi Kép Nonostyle (2L) - Hàng Chính Hãng"
-  },
-  "94095080": {
-    "id": 94095080,
-    "price": 43000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5f/b7/2d/fc06b5e60532e97dcbbed65a9308ace5.jpg",
-    "name": "Tạ tay nhựa loại đơn 5kg"
+  "95004244": {
+    "id": 95004244,
+    "price": 286000,
+    "discount_rate": 4,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ef/4b/2f/a2aef792429e9c5e676813534a491b36.PNG",
+    "rating_average": 4.7
   },
   "95089986": {
     "id": 95089986,
     "price": 441000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7e/2e/b0/71524b30bc6ca8baa70f1010c5b762d8.jpg",
-    "name": " Bút chì màu gốc dầu cao cấp Deli - 6565 / 6566 / 6567"
-  },
-  "95269420": {
-    "id": 95269420,
-    "price": 300000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2d/ff/00/fd28fddb7318639fbe156bf05e0e3fa0.jpg",
-    "name": "Tã Quần Siêu Cao Cấp Huggies Platinum Nature Made M58 (58 Miếng)"
-  },
-  "95564330": {
-    "id": 95564330,
-    "price": 9900,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/33/58/9e/ddb085c7b846d38c5a0020749947487e.jpg",
-    "name": "Gạt lớn Gạt Drum 35A hàng chính hãng Alphacartridge dành cho hộp mực 48A 79A 78A 83A 85A Crg 337 325 326 328 312"
+    "rating_average": 0
   },
   "95877962": {
     "id": 95877962,
-    "price": 19900,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7b/ab/c6/68a17e26b9fb2f1a8722e9bf2c19fccb.jpg",
-    "name": "QUẦN NGẮN THUN NỮ - COTTON - MÁT - NHẸ - THOÁNG"
-  },
-  "97327143": {
-    "id": 97327143,
-    "price": 6990,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a9/18/5b/e7647554733d8bc84f5bb5152ca44f7e.jpg",
-    "name": "Combo 10 vỏ bọc thẻ căn cước, thẻ tín dụng, bằng lái xe ATM trong suốt mặt nhám, vỏ bọc thẻ chất liệu PVC mềm dẻo, không thấm nước-VBT"
-  },
-  "97340066": {
-    "id": 97340066,
-    "price": 9398000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a3/93/5d/d5574a3ea3c6343d73e0d6367fab9ac4.jpg",
-    "name": "Smart Tivi LG 4K 43 inch 43UP7550PTC"
-  },
-  "98329143": {
-    "id": 98329143,
-    "price": 38500,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/26/b1/c0/e62fad723d15eb42c340ffe75f9b4951.PNG",
-    "name": "Lốc 6 Lon Nước Uống Có Gas Aquafina Soda (320ml/Lon)"
-  },
-  "99091224": {
-    "id": 99091224,
-    "price": 115000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/28/bc/7b/29a30f1d5312e292b8850c73d2a41df2.jpg",
-    "name": "Bộ Chuyển Đổi SSD Sang M.2 Ngff Cho Apple Macbook AIR Mac Pro 2013 2014 2015 SSD"
-  },
-  "99156609": {
-    "id": 99156609,
-    "price": 69000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fe/41/a0/5fc038954331e417dc65e2145b7725d7.jpg",
-    "name": "Áo Thun Nam cổ tròn TSIMPLE áo phông trơn basic tay ngắn vải cotton co giãn, dày dặn , form chuẩn nhiều màu"
-  },
-  "100130013": {
-    "id": 100130013,
-    "price": 725000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/af/d6/0c/6c04c7076940329944d5d56d245f8492.jpg",
-    "name": "Bộ sản phẩm chống nắng toàn diện và làm sạch La Roche-Posay Anthelios Dry Touch "
-  },
-  "102394898": {
-    "id": 102394898,
     "price": 45000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0e/30/a6/edc39a8f8f98baa9e17d45f80a4daa73.jpg",
-    "name": "[ HOT 2021] Quần short, quần đùi nữ ️ chất đũi Thái, có bigsize 40-80kg️"
+    "discount_rate": 24,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cd/f6/70/3544b5a0c845577f5b36963c9165b43d.jpg",
+    "rating_average": 4.8
   },
-  "103660246": {
-    "id": 103660246,
-    "price": 39000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/79/76/ec/c8e366dd9857c388c47b4f2486014cdc.jpg",
-    "name": "TÚI XÁCH NỮ TÚI ĐEO CHÉO ĐEO VAI NHỎ XINH SÀNH ĐIỆU G0001 KIỂU DÁNG TRẺ TRUNG NĂNG ĐỘNG"
+  "98250722": {
+    "id": 98250722,
+    "price": 19000,
+    "discount_rate": 49,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/46/98/1c/0404503ca66efb5f2a07c6663c93695a.jpg",
+    "rating_average": 4.7
   },
-  "104074999": {
-    "id": 104074999,
-    "price": 47700,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/30/ba/e6/942b39c7efcd67f883d874e405cad236.jpg",
-    "name": "Không Diệt Không Sinh Đừng Sợ Hãi (Tái Bản)"
+  "98578829": {
+    "id": 98578829,
+    "price": 210000,
+    "discount_rate": 9,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3a/1d/9a/89fc8b426e1a306d8c39295ef6b7649c.jpg",
+    "rating_average": 4.5
   },
-  "104991715": {
-    "id": 104991715,
-    "price": 344000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/26/22/d3/b6570b2e9e541c9a37472cf95ddf6f28.jpg",
-    "name": "Combo Chảo chiên Tefal Natura B2260295 20cm & Chảo chiên sâu lòng Tefal Natura B2266495 24cm - Dùng được trên bếp gas/ bếp hồng ngoại - Công nghệ báo nhiệt thông minh - Hàng chính hãng"
+  "99183754": {
+    "id": 99183754,
+    "price": 79000,
+    "discount_rate": 54,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/59/92/b9/a310f6f40c76cb425b4bcbd72009bab7.jpg",
+    "rating_average": 4.6
   },
-  "107058299": {
-    "id": 107058299,
-    "price": 575000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/65/69/31/964d145957db6b1ff0653aa489ad82b7.jpg",
-    "name": "Máy in nhiệt Deli DL-581PS - Phù hợp cho hóa đơn, bill cửa hàng, siêu thị dùng giấy in nhiệt K58mm - Hàng chính hãng"
+  "99868980": {
+    "id": 99868980,
+    "price": 237000,
+    "discount_rate": 50,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/02/c8/60/6091f8204ac012737135c39001b0dab4.jpg",
+    "rating_average": 4.95
   },
-  "107411611": {
-    "id": 107411611,
-    "price": 40000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9d/f2/c2/40eb7900216383c97c077d0c707cdea8.PNG",
-    "name": "Áo thun Nam Nữ Vonesa, áo phông Unisex Nam Nữ có Size từ 25-84kg B9"
+  "100931416": {
+    "id": 100931416,
+    "price": 79570,
+    "discount_rate": 27,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/98/c7/09/2de388901fba8f60681479aa9ffd245a.jpg",
+    "rating_average": 4.8
   },
-  "107975586": {
-    "id": 107975586,
-    "price": 32000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ea/d5/11/1d50cb756dd18f6e8f6c1e59e976b132.png",
-    "name": "Dầu tra máy chạy bộ thể dục phiên bản 2021 tốt hơn tiết kiệm hơn [ hàng chuyên dụng dùng cho các đời máy]"
+  "102811446": {
+    "id": 102811446,
+    "price": 129000,
+    "discount_rate": 59,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/11/68/f4/c3a71da3f7cef6ff822a0e4b1bee8ce3.jpg",
+    "rating_average": 4.7
   },
-  "108358593": {
-    "id": 108358593,
-    "price": 914760,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a4/56/f6/46651c00769da853bf1553251e3efcd3.jpg",
-    "name": "Chảo nướng dưỡng sinh 20.5 cm (bếp từ)  Healthy Cook Xanh Rêu Sứ cao cấp Minh Long"
+  "104080683": {
+    "id": 104080683,
+    "price": 59000,
+    "discount_rate": 73,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ab/67/84/a2e58f99e1d49c6653317888c3a80dda.jpg",
+    "rating_average": 4.45
+  },
+  "104908436": {
+    "id": 104908436,
+    "price": 229000,
+    "discount_rate": 8,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0b/38/0a/3c6b814364b04a6b0626d1d05feeb1ab.jpg",
+    "rating_average": 4.7
+  },
+  "106226200": {
+    "id": 106226200,
+    "price": 7000,
+    "discount_rate": 72,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a6/2b/9e/782bbe5a586e09bd0359d2bf3d8ab033.jpg",
+    "rating_average": 4.7
+  },
+  "108558418": {
+    "id": 108558418,
+    "price": 129000,
+    "discount_rate": 55,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b6/3d/3a/28bcb7de72ef7bd3fe12f91100a21cee.jpg",
+    "rating_average": 4.95
   },
   "108651432": {
     "id": 108651432,
-    "price": 38000,
+    "price": 40000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/58/34/6c/eccef6312fea51c36ecb56ecb319b871.jpg",
-    "name": "Rượu Sân Đình Chuối Hột 400ml 29,5%"
+    "rating_average": 4.8
   },
-  "109067466": {
-    "id": 109067466,
-    "price": 9900,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b6/6b/b0/25b1ccc97f6134a0620d5f9ead2d6024.jpg",
-    "name": "[Chỉ Giao HCM] Túi 1Kg - Cam Kiến Vàng Vĩnh Long - Loại Vắt Nước (7-8 quả/Kg) - Foodmap"
+  "108928527": {
+    "id": 108928527,
+    "price": 30000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ff/0b/df/34b8025d39f075a1c16e472f93f99bee.jpg",
+    "rating_average": 4.3
   },
-  "109596751": {
-    "id": 109596751,
-    "price": 65000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/aa/33/23/60c5083e77a319f455a03a0959ccd8d6.jpg",
-    "name": "Quần ống rộng giả váy lửng chất đũi 3 màu"
+  "109017985": {
+    "id": 109017985,
+    "price": 122000,
+    "discount_rate": 32,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7c/e8/34/4d3636aadb471cad0bf2f45d681e4f23.jpg",
+    "rating_average": 4.8
   },
-  "110298865": {
-    "id": 110298865,
-    "price": 29000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bc/a0/87/a541c4f938c38ebb2e54a6743c521053.png",
-    "name": "Bộ Chiết Mỹ Phẩm 7 Món Mini Hàn Quốc Tiện Dụng"
+  "109064014": {
+    "id": 109064014,
+    "price": 169000,
+    "discount_rate": 47,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/be/85/8b/d03779daaa73bb1121489bc2048d98d1.jpg",
+    "rating_average": 4.8
   },
-  "111152545": {
-    "id": 111152545,
-    "price": 298000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f6/8f/e0/a45505902a233376bb018f503180607f.jpg",
-    "name": "Tai Nghe bluetooth EW02 HOCO - Hàng Chính Hãng"
+  "109113430": {
+    "id": 109113430,
+    "price": 185000,
+    "discount_rate": 21,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/22/1e/3e/b141d3a7380ecd10a02f60c85d42894d.jpg",
+    "rating_average": 4.8
   },
-  "112087792": {
-    "id": 112087792,
-    "price": 80250,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f3/7e/57/ef38aaa6b12d4136f8b8cc5b3bc4071e.jpg",
-    "name": "Thẻ nhớ chuyên camera Mirco SD HIKVISION  64G - 32GB - 92MB/s, chuyên ghi hình cho camera, máy ảnh, ... Hàng nhập khẩu"
+  "109116087": {
+    "id": 109116087,
+    "price": 181000,
+    "discount_rate": 22,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/af/2e/05/2bdbce787090689056c71eb6ccce57da.jpg",
+    "rating_average": 4.8
   },
-  "113194177": {
-    "id": 113194177,
-    "price": 126000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d1/01/3b/fb80e60d0b80bdadb0c2dea0310a80ec.jpg",
-    "name": "6 tờ Poster giáo dục mầm non giống như lụa dạy bảng chữ cái và chữ số"
+  "109573169": {
+    "id": 109573169,
+    "price": 820000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9f/69/ea/d4a906d2b07f9a0dcdf17e8a8956857d.jpg",
+    "rating_average": 0
   },
-  "113558783": {
-    "id": 113558783,
+  "110861337": {
+    "id": 110861337,
+    "price": 10000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b3/e5/49/d9e6c83205f6737435e058c3fc4f8ac1.jpg",
+    "rating_average": 4.5
+  },
+  "113482724": {
+    "id": 113482724,
     "price": 1000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/86/32/57/303a6a89ee895cdbb2d05fb9355374ee.jpg",
-    "name": "Miếng dán dính tường móc treo đồ siêu dính siêu bền siêu rẻ 6x6cm"
+    "discount_rate": 75,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/23/dd/a2/399bc0ebedd6854d7c771915c96e9ce2.jpg",
+    "rating_average": 0
   },
-  "114578907": {
-    "id": 114578907,
-    "price": 209000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f1/30/2f/e90b72d0bad16ea627ccce67c8ba7aae.jpg",
-    "name": "Sapiens Lược Sử Loài Người (Tái Bản)"
+  "114259813": {
+    "id": 114259813,
+    "price": 25000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/84/e8/6e/bcb72a6ddec5330a4e028349b505de68.jpg",
+    "rating_average": 0
   },
-  "114693546": {
-    "id": 114693546,
-    "price": 1539000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/c4/e3/77/fa6a93af16fb201124e8f553378597f7.jpg",
-    "name": "Bộ 2 lon sữa bột Enfagrow A+ Neuropro 4 Vị Không Đổi cho trẻ từ 2 – 6 tuổi – 1.7kg (Bao bì mới) – Tặng 1 lon Enfagrow A+ Neuropro 4 830g"
+  "114976767": {
+    "id": 114976767,
+    "price": 2477000,
+    "discount_rate": 45,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/99/9c/37/e797d6ff20db3d615059b7aa1d219b4d.jpg",
+    "rating_average": 4.7
   },
-  "114737255": {
-    "id": 114737255,
-    "price": 102000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5c/c4/05/624c95985b54c25cb7b9ed0646dc4530.jpg",
-    "name": "Nón bucket vải bố vành cụp trơn - mũ tai bèo Ulzzang phong cách, cá tính Unisex nam nữ"
+  "115714256": {
+    "id": 115714256,
+    "price": 24000,
+    "discount_rate": 20,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d9/95/0d/5a4998c0304ea61609ccb3a2535a3999.jpg",
+    "rating_average": 4.8
   },
-  "114771868": {
-    "id": 114771868,
-    "price": 132000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/2c/8b/53/cdbe310d4dc2fa6ade28b7110db526df.jpg",
-    "name": "Nước Giặt Dưỡng Vải Comfort Đa Chức Năng Hương Thời Thượng Giúp Quần Áo Sạch Thơm & Tươi Màu Túi 3.6Kg"
+  "115971260": {
+    "id": 115971260,
+    "price": 274000,
+    "discount_rate": 52,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3f/6a/01/e8a46eb4d078a374baa2b3d1fd2e3631.jpg",
+    "rating_average": 4.6
   },
-  "114821993": {
-    "id": 114821993,
-    "price": 28000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/de/ee/f6/1aa57a6138c48922f883221ea4c19833.jpg",
-    "name": "Trà NESTEA vị Vải & Hương Hoa Lài (Hộp 12 gói x 12g)"
+  "116002549": {
+    "id": 116002549,
+    "price": 199000,
+    "discount_rate": 49,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/67/b4/3b/05e8f453778576d7b1bb485c71100a88.jpg",
+    "rating_average": 5
   },
-  "115077531": {
-    "id": 115077531,
-    "price": 180000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/18/53/f7/fa77f138ded2d491253c37d48dacdfcb.jpg",
-    "name": "Set 4 chiếc quần chip bé gái, quần lót cho bé gái cotton cao cấp họa tiết Thỏ Bunny dễ thương hãng LASAMO mã QLB005"
-  },
-  "115077552": {
-    "id": 115077552,
-    "price": 189000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/50/2c/23/f77896b8b4d44225b05c649eb6826178.png",
-    "name": "Set 4 quần lót sịp đùi bé trai hoạ tiết Khủng long cao cấp hãng LASAMO mã QLB006"
-  },
-  "115124831": {
-    "id": 115124831,
-    "price": 19000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a2/d9/1c/1059a3fdb81464bd5580af20cdd25e07.jpg",
-    "name": "áo ba lỗ nam áo lót nam chất cotton mỏng siêu mát hàng Hà Nội Việt Nam"
-  },
-  "116149779": {
-    "id": 116149779,
-    "price": 289000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b8/cc/0b/0c7842f2428a043863167f5dd550b6b1.jpg",
-    "name": "Áo Phông Polo Nữ YODY Bo Trơn Cổ Trơn Chất Liệu Cafe Khử Mùi Khử Khuẩn - APN4388"
+  "116150083": {
+    "id": 116150083,
+    "price": 278000,
+    "discount_rate": 14,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/35/de/af/9dd031b551c915caca1a8819765c964a.png",
+    "rating_average": 4.7
   },
   "116178034": {
     "id": 116178034,
     "price": 200000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/95/58/17/688aae9267a54a831c73b7a47c425aa1.jpg",
-    "name": "Tranh Bác Hồ- Tranh Treo Tường Bằng Gỗ 5 Điều Bác Dạy."
+    "rating_average": 0
   },
-  "116384748": {
-    "id": 116384748,
-    "price": 56000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f2/26/2d/40b819421c77fad52b4027062d4e9e4b.jpg",
-    "name": "Áo thun nữ cộc tay phối màu in số 11 phong cách hàn quốc phom rộng"
+  "116410107": {
+    "id": 116410107,
+    "price": 169000,
+    "discount_rate": 23,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/f3/f8/64/9c5b7cbebcf8049ee5cd234cc838a715.jpg",
+    "rating_average": 4.8
   },
-  "116410366": {
-    "id": 116410366,
-    "price": 62000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f1/ae/6f/e5a08093e54e6d390015cddca56e313d.png",
-    "name": "Phấn thơm Johnson's Baby Hương Hoa"
+  "116410110": {
+    "id": 116410110,
+    "price": 189000,
+    "discount_rate": 14,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/ee/c0/51/7431e86d0efbe0f953dc3ad05db0cac7.jpg",
+    "rating_average": 4.8
   },
-  "116424109": {
-    "id": 116424109,
-    "price": 91000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d2/3d/0d/d7acb7a9ac9125a47e5a8ecfa5a47fc6.png",
-    "name": "Dầu gội Johnson's Baby cho bé - Dung Tích 500ml"
+  "116410119": {
+    "id": 116410119,
+    "price": 169000,
+    "discount_rate": 23,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/eb/b4/6c/6ad90743924254e415bac7ee76e0c212.jpg",
+    "rating_average": 4.8
   },
-  "117075279": {
-    "id": 117075279,
-    "price": 59000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6b/88/74/6ea9af9787aa5bf7fc5777fbd92466d6.png",
-    "name": "Cá Ba sa nguyen con bo dau - 1kg"
+  "117059903": {
+    "id": 117059903,
+    "price": 149000,
+    "discount_rate": 50,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c0/7d/c1/540461422fcdc8ed2ea77d97cfc183e3.png",
+    "rating_average": 4.6
   },
-  "117238177": {
-    "id": 117238177,
-    "price": 97500,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8e/32/3d/e4487c4c7e335bbda4f06dd54d8e35b8.jpg",
-    "name": "Thư Viện Nửa Đêm"
+  "117254517": {
+    "id": 117254517,
+    "price": 240000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f7/fb/9a/e8b9a94478dc887c4b84b6b6439f6335.jpg",
+    "rating_average": 0
   },
-  "121485363": {
-    "id": 121485363,
-    "price": 802000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/80/87/f8/e4277adc0f04afaf38b11633d3413a27.jpg",
-    "name": "Bàn Chải Điện P/S S100 PRO - Công Nghệ Sóng Âm, Chải Sạch Mảng Bám Tới 10X - Xanh Ombre"
+  "119374378": {
+    "id": 119374378,
+    "price": 589000,
+    "discount_rate": 50,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6d/a8/af/5b8be87515d2629d6fbd5303c455fd13.jpg",
+    "rating_average": 4.7
   },
-  "122700651": {
-    "id": 122700651,
-    "price": 119000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b1/a9/5d/7d2e4e7f45bc30140aa05e5a9f5a2646.jpg",
-    "name": "Cây lau kính, gạt chùi kính đa năng 2 đầu trong 1 - Parroti Shiny SN01"
+  "120782190": {
+    "id": 120782190,
+    "price": 85000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e8/df/2e/0dafce4a3b47a969fd81a53ffe6b3a1b.jpg",
+    "rating_average": 0
+  },
+  "121485346": {
+    "id": 121485346,
+    "price": 828000,
+    "discount_rate": 36,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/d0/9d/f4/1a64533df0e2eea9f7471814c82d5e1e.jpg",
+    "rating_average": 4.7
+  },
+  "122349727": {
+    "id": 122349727,
+    "price": 890000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/dc/ad/02/0713eb65f11ef09321624d0be8dcff9a.jpg",
+    "rating_average": 0
   },
   "123345348": {
     "id": 123345348,
-    "price": 15650000,
+    "price": 16100000,
+    "discount_rate": 11,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e0/c9/78/e028f9346e1922b0aadc750f272609c3.jpg",
-    "name": "Apple iPhone 12"
+    "rating_average": 4.95
   },
-  "125158026": {
-    "id": 125158026,
-    "price": 25000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/35/32/92/b36d7cd465f9ae3fccb0dcf3715ca312.jpg",
-    "name": "HCM E-voucher - GIẢM 50K tất cả dịch vụ Chăm sóc giày tại EXTRIM SHOE CARE & MORE"
+  "123512018": {
+    "id": 123512018,
+    "price": 2515000,
+    "discount_rate": 25,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f7/42/df/2f473d1c94260d66166db538f70ed2b6.png",
+    "rating_average": 5
+  },
+  "124069895": {
+    "id": 124069895,
+    "price": 443000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d5/87/2e/d125def793499a03d59406297fefad51.jpg",
+    "rating_average": 4.8
+  },
+  "125068679": {
+    "id": 125068679,
+    "price": 185000,
+    "discount_rate": 57,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2f/97/dd/a041373e5a7c5c0cdd2cf153b8f4be51.JPG",
+    "rating_average": 4.45
+  },
+  "125579237": {
+    "id": 125579237,
+    "price": 39000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/21/cc/4a/980da0f5447a4628fb74c9c44ed639f2.jpg",
+    "rating_average": 0
+  },
+  "126743459": {
+    "id": 126743459,
+    "price": 79570,
+    "discount_rate": 27,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/63/30/9e/cacc0e688cb82558f93f1710ac36ca7c.jpg",
+    "rating_average": 4.95
   },
   "127076265": {
     "id": 127076265,
     "price": 19440,
+    "discount_rate": 20,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/11/99/0f/1181b92f9cc1a1fbf36caa0d24a1c77d.png",
-    "name": " Patê Cột Đèn Hải Phòng 150g - Đồ Hộp Hạ Long"
+    "rating_average": 4.8
   },
-  "128288201": {
-    "id": 128288201,
-    "price": 420000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/38/47/0e/9c6396f098e78f888fb2c40ec11a79c5.jpg",
-    "name": "Bộ Dụng Cụ Chống Đẩy Đa Năng 3 Trong 1 Tích Hợp Tập Bụng,Dây Kéo Tay "
+  "129863345": {
+    "id": 129863345,
+    "price": 55000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b6/f5/d0/1b0a4d723b864ffdf631e4c443355174.jpg",
+    "rating_average": 4.5
   },
-  "129741417": {
-    "id": 129741417,
-    "price": 99000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/0c/48/85/fb192e744bad30f9ab2f0604a4e58e81.jpg",
-    "name": "Kem dưỡng da tay hương thơm thiên nhiên Jeju innisfree Jeju Life Perfumed Hand Cream 30ml"
+  "131300423": {
+    "id": 131300423,
+    "price": 28000,
+    "discount_rate": 30,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/13/95/a0/3bc15ecea164340d3d2ee728df0da62a.jpg",
+    "rating_average": 4.3
   },
-  "130170343": {
-    "id": 130170343,
-    "price": 114000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9f/fe/a1/a2a72128794fae8f3f509b2a6c5b9eba.jpg",
-    "name": "Cáp Sạc Nhanh Type C SuperVOOC DL129 - Hàng Chính Hãng"
-  },
-  "130866028": {
-    "id": 130866028,
-    "price": 19000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/10/b3/3d/44d16c9c342462d463f22f356e4c1fed.jpg",
-    "name": "Áo Thun Tay Lỡ Unisex SADBOIZ màu ĐEN �/Nam nữ unisex ️ Jaystoree Kiểu áo phông cổ tròn form rộng"
-  },
-  "131337754": {
-    "id": 131337754,
-    "price": 35000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f0/5e/ec/c255e5639a1709fafd09b431dfafea23.jpg",
-    "name": "Túi đeo chéo phiên bản Hàn Quốc đeo chéo một vai đeo ngực, cưỡi ngựa leo núi ngoài trời"
-  },
-  "132956226": {
-    "id": 132956226,
-    "price": 5000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/93/7c/ec/3c5d8824193221a351a2875309aa5683.jpg",
-    "name": "1 ĐÔI GĂNG TAYCHẤT LIỆU LEN Mỏng"
+  "132815390": {
+    "id": 132815390,
+    "price": 344000,
+    "discount_rate": 20,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/25/19/88/7cac9aac0720cd4c943b670cc7133c0a.jpg",
+    "rating_average": 5
   },
   "133898113": {
     "id": 133898113,
-    "price": 880000,
+    "price": 780000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b1/4c/06/5cb5105aaaf9131ae8e1501e131809cb.jpg",
-    "name": "Giường Pallet / Giường Ngủ Pallet Gỗ Thông Gấp Gọn / Giường Gỗ Thông nhập khẩu Mới 100% "
+    "rating_average": 0
   },
-  "134335275": {
-    "id": 134335275,
-    "price": 25000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e3/3a/5e/8f9062750133ee8f7959dfce0ffa5b9f.jpg",
-    "name": "Viên Serum Dưỡng Tóc Ellips Hair Vitamin Pro Keratin Complex Giúp Phục Hồi Tóc, Nuôi Dưỡng Tóc Óng Mượt (Vỉ 6 Viên)"
+  "134040370": {
+    "id": 134040370,
+    "price": 79000,
+    "discount_rate": 20,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a5/ee/3c/5926d19242fabad34a6462121bedc478.jpeg",
+    "rating_average": 3.8
   },
   "134582052": {
     "id": 134582052,
-    "price": 389000,
+    "price": 440000,
+    "discount_rate": 21,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/31/bc/b4/45fdf72e7097219f11e59c854579bb9d.jpg",
-    "name": "ĐỆM TRẢI SÀN, NỆM, TOPPER HÀNG XUẤT NHẬT 1Mx2M, 1M4x2M, 1M6x2M "
+    "rating_average": 0
   },
-  "137947175": {
-    "id": 137947175,
-    "price": 31000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/95/13/9e/077773a4d0ad609bab9154e90062606e.jpg",
-    "name": "Keo Dán Giày Nhiệt Trong Suốt Siêu Dính Dùng Không Tổn Thương Da"
+  "134708659": {
+    "id": 134708659,
+    "price": 529000,
+    "discount_rate": 35,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cf/72/6a/ff5918105cdd87217fa0d73328dee833.jpg",
+    "rating_average": 4.95
   },
-  "139285412": {
-    "id": 139285412,
-    "price": 1350,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/26/85/21/eac7b09331973dc56e971e6849e3e149.jpg",
-    "name": " Chai Nhựa Tam Giác Đựng Trà Sữa - Chai Hình Tháp Đã Kèm Nắp"
-  },
-  "139567621": {
-    "id": 139567621,
-    "price": 96200,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/dd/28/9b/89a9fa55bbc6fbeccdec8f7768fea050.jpg",
-    "name": "Thức Tỉnh Mục Đích Sống (Tái Bản)"
+  "135281679": {
+    "id": 135281679,
+    "price": 112000,
+    "discount_rate": 44,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ca/7c/c1/3a295cdbb885690d111db9c3a3882c96.jpg",
+    "rating_average": 5
   },
   "140934746": {
     "id": 140934746,
-    "price": 195000,
+    "price": 124000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b4/9a/2a/6a2eceb0f96b3fbc173279053661d3e6.jpg",
-    "name": "1 thùng 300 cái khẩu trang kf94 chuẩn Hàn quốc "
+    "rating_average": 0
   },
-  "141679006": {
-    "id": 141679006,
-    "price": 217000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f2/1d/73/bed885cb313dfd926d0640c8ac432cc2.jpg",
-    "name": "Quả cầu lông chính hãng thi đấu chuyên nghiệp giá rẻ trái cầu lông Hải Yến S70 ( 1 ống)"
+  "141333746": {
+    "id": 141333746,
+    "price": 107000,
+    "discount_rate": 29,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c2/10/a8/ce2923027aceb7dce7930414f5d759e3.jpg",
+    "rating_average": 4.8
   },
-  "141996383": {
-    "id": 141996383,
-    "price": 162000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/25/27/4f/c27f99644dfab2c3fd14ae45412d30f5.jpg",
-    "name": "Túi Nước Giặt Xả MaxKleen Thiên Nhiên 3.6kg"
+  "142096809": {
+    "id": 142096809,
+    "price": 650000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/41/a6/ea/ed1fa98a85915cec323b309c1d69de69.jpg",
+    "rating_average": 0
   },
-  "142708105": {
-    "id": 142708105,
-    "price": 19499,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fe/fa/b4/aca3299f235de5f5f76b43f4a3375305.jpg",
-    "name": "SÁP THƠM KHỬ MÙI KHÁNG KHUẨN HƯƠNG TỰ NHIÊN ĐỂ TỦ QUẦN ÁO, NHÀ VỆ SINH, PHÒNG TẮM"
+  "142811219": {
+    "id": 142811219,
+    "price": 125000,
+    "discount_rate": 34,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3d/99/ba/bb296415bbe1df1029c524d40fcb4745.jpg",
+    "rating_average": 4.8
   },
   "142989162": {
     "id": 142989162,
     "price": 75000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a3/cb/34/979e2bf11e21d0da009bbd833dd7140e.png",
-    "name": "Cáp Sạc Baseus Cafule dành cho iPhone/iPad - Hàng Chính Hãng"
+    "rating_average": 0
   },
-  "143669987": {
-    "id": 143669987,
-    "price": 3900000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/70/08/e2/3073f52368c63fda18cfe5834f18ae72.jpg",
-    "name": " SIHOO VITO M90/M91 Ghế công thái học Ergonomic full lưới tựa lưng kép định hình cột sống với 2 phiên bản thanh xuân giành cho người lớn và học sinh "
-  },
-  "143909761": {
-    "id": 143909761,
-    "price": 13500,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5e/6d/1d/ccb949bacda49f26558a14e4c0f4cdad.jpg",
-    "name": "Lọ chiết nước hoa trụ vuông dài 10ml"
-  },
-  "144870666": {
-    "id": 144870666,
-    "price": 149000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/51/79/a4/6700cdd04d5473356064ff246da2dd63.png",
-    "name": "Quần dài thể thao nam Gymate 2 sọc ống xuông nam thấm hút thoáng khí thoải mái Q2S"
-  },
-  "145421377": {
-    "id": 145421377,
+  "144355714": {
+    "id": 144355714,
     "price": 199000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7d/0c/84/a03ec9ac948357dcea943748499bb9ae.jpg",
-    "name": "Quần jean baggy nam Jabasi kiểu ống rộng dáng suông ,trẻ trung tôn dáng ,phong cách"
+    "discount_rate": 46,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/00/53/35/4dcc1d3226831e5a390e57e2ea8f6fcb.jpg",
+    "rating_average": 4.8
+  },
+  "144360645": {
+    "id": 144360645,
+    "price": 73000,
+    "discount_rate": 18,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8f/49/89/1d527b656e494c08ad67af54441ecd1c.png",
+    "rating_average": 4.8
+  },
+  "144752742": {
+    "id": 144752742,
+    "price": 288000,
+    "discount_rate": 17,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/86/aa/cd/9aadb83064f571db9701d0e5fb267519.png",
+    "rating_average": 4.6
+  },
+  "145288029": {
+    "id": 145288029,
+    "price": 178000,
+    "discount_rate": 29,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b4/f0/81/5d5e4a26cb029fdecd04e0c30cbef17a.jpg",
+    "rating_average": 4.7
+  },
+  "145311310": {
+    "id": 145311310,
+    "price": 199000,
+    "discount_rate": 48,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a4/70/a3/7b97d3dd8ab1dd1d119bb803d983ba72.jpg",
+    "rating_average": 4.7
+  },
+  "145974290": {
+    "id": 145974290,
+    "price": 335000,
+    "discount_rate": 29,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/ed/74/58/1f4e6c160ae58abb92695ffe3a71253a.png",
+    "rating_average": 4.95
   },
   "145977548": {
     "id": 145977548,
     "price": 59000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/94/8e/0a/a6db5014ecbea5502aff79e3b9f3cd81.jpg",
-    "name": "Kiếp Người - Vĩnh Cửu Và Vô Thường "
+    "rating_average": 0
   },
-  "146593022": {
-    "id": 146593022,
-    "price": 59000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3e/7b/c4/f9dbd65a144c0c14aa567dc9d128997a.jpg",
-    "name": "Dầu Đậu Nành Simply (1L / Chai)"
+  "146618323": {
+    "id": 146618323,
+    "price": 503000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/df/99/9a/67e337b4d7514fe8e7dcb00bb6306382.jpg",
+    "rating_average": 5
   },
-  "146593071": {
-    "id": 146593071,
-    "price": 70000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f1/1c/69/c8b61885056d80ff82eaeb77f1219374.jpg",
-    "name": "Bột Ngọt Ajinomoto Gói 1kg"
+  "147080146": {
+    "id": 147080146,
+    "price": 38000,
+    "discount_rate": 28,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6a/2b/c6/413b92baa8125e3517efe97e4a850f89.jpg",
+    "rating_average": 4.6
   },
-  "147384609": {
-    "id": 147384609,
-    "price": 115575,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/91/a1/66/6c7900c5360f458588f5ed7c2896c9bb.jpg",
-    "name": "THÙNG 40 GÓI GIẤY ĂN RÚT HÌNH THỎ SIÊU SIÊU HÓT HÍT"
+  "147413999": {
+    "id": 147413999,
+    "price": 8000,
+    "discount_rate": 50,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/13/12/f7/31d2e3eaad76fbdfeccdc0d2561eed62.jpg",
+    "rating_average": 4.6
   },
-  "147672795": {
-    "id": 147672795,
-    "price": 114000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6b/62/91/18197070c1c77f6e330d975a5eb16171.jpg",
-    "name": "Xà Đơn Treo Tường Gắn Cửa Đa Năng Độ Dài Tùy Chỉnh Giúp Bạn Tập Gym, Tập Cơ Bụng, Cơ Vai, Cơ Xô 60-120Cm - Chính Hãng dododios (Màu Ngẫu Nhiên)"
+  "147423638": {
+    "id": 147423638,
+    "price": 4000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/23/16/67/d4b03c38abc2a083e2ed0d0b6f54ae2c.jpg",
+    "rating_average": 5
   },
-  "147987021": {
-    "id": 147987021,
-    "price": 369000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/69/04/cb/518b4fba6ef6ba4d20c2a094609b5595.png",
-    "name": "Quần Jean Nam 5S (3 màu), Chất Cotton Premium Siêu Mịn, Mềm Mại, Không Bai Xù, Co Giãn Tốt, Phom Dáng Trẻ Trung"
+  "148071780": {
+    "id": 148071780,
+    "price": 711000,
+    "discount_rate": 40,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0a/e8/db/d980952267ba8147a96d41761b2926d5.jpg",
+    "rating_average": 5
   },
-  "149396825": {
-    "id": 149396825,
-    "price": 270000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ff/a3/7c/238a930de0d327da30790dca7f25ab48.jpg",
-    "name": "Thùng 24 lon bia Saigon Export 330ml"
+  "149097062": {
+    "id": 149097062,
+    "price": 51000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/22/2f/bf/10728d717e545004608b7689b23f0f2b.jpg",
+    "rating_average": 5
   },
   "149396897": {
     "id": 149396897,
     "price": 106900,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/af/44/4b/bb7e40bce0c0c06852a40bd826018131.jpg",
-    "name": "Lốc 6 Lon cao Strongbow vị Táo nguyên bản (330ml x 6 Lon)"
+    "rating_average": 0
   },
-  "149396975": {
-    "id": 149396975,
-    "price": 110000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/35/c2/6f/593813ab858b54d6923a924902ecc588.jpg",
-    "name": "Túi 46 Gói Nescafé Đậm Đà Hài Hòa (17g)"
+  "149766614": {
+    "id": 149766614,
+    "price": 28000,
+    "discount_rate": 22,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8e/0d/b6/cf5c4fbf85e3d83f7760c90a4692df6f.jpg",
+    "rating_average": 4.7
   },
-  "150172614": {
-    "id": 150172614,
-    "price": 14000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d8/a5/dd/014d8f17df22ff912a7d40e2630d786b.jpg",
-    "name": "TẤT UNISEX nikeE NHIỀU MÀU"
+  "149969265": {
+    "id": 149969265,
+    "price": 90000,
+    "discount_rate": 4,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ee/14/1c/a5b77dc1ff89af84f75a570333dc5485.jpg",
+    "rating_average": 4.95
   },
-  "150227434": {
-    "id": 150227434,
+  "150227638": {
+    "id": 150227638,
+    "price": 35000,
+    "discount_rate": 13,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/60/f2/0c/fbf1babbd0e0e949b0bf79b29107d514.jpg",
+    "rating_average": 4.95
+  },
+  "150227727": {
+    "id": 150227727,
     "price": 9000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e4/15/d8/c2e31e0c0c8316810852737a6a6adc6d.jpg",
-    "name": "Bịch Sữa Tươi Tiệt Trùng Ít Đường TH True Milk 220ml"
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/df/2e/b3/6a2643ece26cde606e17b412df3acb9c.jpg",
+    "rating_average": 5
   },
-  "150227740": {
-    "id": 150227740,
-    "price": 3500,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ae/f6/96/4038d339bcdd76f1bc4554bf45a188c4.jpg",
-    "name": "Bịch sữa Đậu Nành Fami Nguyên Chất vị Đường đen 200ml"
+  "152547009": {
+    "id": 152547009,
+    "price": 171000,
+    "discount_rate": 22,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b1/af/04/2d44a741a54dd60cd96ac6ee8b57b651.jpg",
+    "rating_average": 4.95
   },
-  "150557909": {
-    "id": 150557909,
-    "price": 50000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4e/bb/8e/2fbeb1a8190c4599c42901595a60b4ca.jpg",
-    "name": "Đồ Ăn Cho Mèo Trưởng Thành Me-O Hương Vị Cá Ngừ (450g)"
+  "153866270": {
+    "id": 153866270,
+    "price": 52000,
+    "discount_rate": 31,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/46/32/3e/22aa617425fb5d688c58f03498d5376d.jpg",
+    "rating_average": 5
   },
-  "150730252": {
-    "id": 150730252,
-    "price": 120000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c9/22/82/0ecff82cc023bcb4d237f8fdb3eda5b6.png",
-    "name": "Quần Đạp Xe Đệm Mông QL02N Êm Ái Đệm Mút/Đệm Gel, Vải Thoáng Khí, Mỏng, Nhẹ Dễ Chịu - Quần Chạy Xe Đạp Unisex Dùng Cho Cả Nam và Nữ"
+  "153945765": {
+    "id": 153945765,
+    "price": 99000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/10/47/dc/8a2f5bd723e225e89bedd1c20e6f4a7d.jpg",
+    "rating_average": 4.95
   },
-  "151952470": {
-    "id": 151952470,
-    "price": 125000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/23/78/90/9b80e49285e958ab2de87d8f0671f8fc.jpg",
-    "name": "Túi Đựng Đồ Cá Nhân Du Lịch , Túi Đựng Mỹ Phẩm Kiểu Hàn Quốc  Mẫu Mới - MP002"
+  "155108304": {
+    "id": 155108304,
+    "price": 166000,
+    "discount_rate": 17,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/57/39/59/414cb32e567a30f564ca081c4857aac1.jpg",
+    "rating_average": 5
   },
-  "153772460": {
-    "id": 153772460,
-    "price": 7000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/37/ab/e6/da74c828534516083262b43ad00fb558.jpg",
-    "name": "Nón kết nam nữ, nón lưỡi trai KHÔNG KHÓA SAU, nón kết MÀU ĐEN - NH SHOP"
-  },
-  "154284279": {
-    "id": 154284279,
-    "price": 1291000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/35/2e/4f/681efcfef992c2a81cb3794c38878332.png",
-    "name": "Đồng hồ thông minh Redmi Watch 2 Lite - Hàng Chính Hãng"
-  },
-  "154401118": {
-    "id": 154401118,
-    "price": 53000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/47/44/81/c95283b66202f5c8929f29a1b31631be.JPG",
-    "name": "Bộ 5 đôi tất vớ nữ cổ ngắn chuột nhí Freesize (giao màu ngẫu nhiên)"
-  },
-  "155800782": {
-    "id": 155800782,
-    "price": 14000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/02/3f/28/343b93f77f0fd2284eb366dbe5d5bcb8.jpg",
-    "name": "Mút đệm ngực thay thế cho áo bra, miếng lót ngực đôi hình bàn tay chất liệu mềm mại"
-  },
-  "158785006": {
-    "id": 158785006,
-    "price": 199000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6f/27/d5/3dc081739662226f5bf7ff9f64908ede.png",
-    "name": "Balo Da đựng Laptop 15.6 inch cao cấp cổng sạc USB chống nước chống xước Natipha BL7729"
-  },
-  "160596400": {
-    "id": 160596400,
-    "price": 29000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/40/d4/92/8ac5b584d127367155ea629d75cceb55.jpg",
-    "name": "Cá ngừ Century  xốt gia vị  cay 180g"
-  },
-  "160794292": {
-    "id": 160794292,
-    "price": 219000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/86/c3/67/dc6c4f865a52b2620582840a98b4b432.jpg",
-    "name": "Nước giặt OMO Matic chuyên dụng Cửa Trước Lavender Khử Mùi Thư Thái 3.6kg"
-  },
-  "160902809": {
-    "id": 160902809,
-    "price": 195000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/48/34/54/159afa9ee737e5148b3e3ee587e45d4f.jpg",
-    "name": "Quần Jogger Nam LAMPOS, Cotton Cao Cấp, Siêu Co Giản - Thoáng Mát - Siêu Bền (Màu đen)"
-  },
-  "161455624": {
-    "id": 161455624,
+  "155288928": {
+    "id": 155288928,
     "price": 49000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c5/3d/c0/258b8812b38de0e9f4fe77cddc2901b7.jpg",
-    "name": "bóng đèn led 50W siêu sáng có "
+    "discount_rate": 67,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ba/8d/5b/6d47b7001da5f606ac89ea1ab107ac9e.jpg",
+    "rating_average": 4.8
   },
-  "161943939": {
-    "id": 161943939,
-    "price": 101000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4a/28/4f/9ed01c8df8b763c85a766fe34897abdf.jpg",
-    "name": "Dép Quai Ngang Nam Nữ Siêu Nhẹ Tăng Chiều Cao Chống Trơn DP02"
+  "155610646": {
+    "id": 155610646,
+    "price": 65000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8f/78/e0/bc2b7c223a951bebb57b0d0fff54e095.jpg",
+    "rating_average": 4.5
   },
-  "162173657": {
-    "id": 162173657,
-    "price": 2000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c1/b0/7c/892484f14b8da26c424b5d64a879d0ea.jpg",
-    "name": "Vỏ Son 5G Nhiều Màu Siêu Xinh - Không Cần Dùng Khuôn"
+  "156300706": {
+    "id": 156300706,
+    "price": 1049000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c6/17/73/284acedeb5911ab1b51b205506db95d3.jpg",
+    "rating_average": 0
   },
-  "162196751": {
-    "id": 162196751,
-    "price": 20000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e4/ed/bc/78a6d6e26caf3d17051f66add1cb5b29.jpg",
-    "name": "Gel Rửa Mặt Dưỡng Trắng Làm Sạch, Bổ Sung Collagen Swiss Image Absolute Radiance Whitening Face Wash 5ml"
+  "157728712": {
+    "id": 157728712,
+    "price": 38000,
+    "discount_rate": 37,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b1/51/42/78ebfbfa795d082ce9092a06e36700b8.jpg",
+    "rating_average": 4.5
   },
-  "162427011": {
-    "id": 162427011,
-    "price": 435000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/70/f5/d7/2ac2ab4cee62f28282807cae8a85d635.png",
-    "name": "Bàn Làm Việc, Bàn Học Có Ngăn Để Đồ Tiện Dụng Phong Cách Bắc Âu Thương Hiệu IGA - GP185"
+  "158597094": {
+    "id": 158597094,
+    "price": 32000,
+    "discount_rate": 42,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/81/71/b6/430aa4f629db5619d257780df6e83def.jpg",
+    "rating_average": 4.7
+  },
+  "158801039": {
+    "id": 158801039,
+    "price": 990000,
+    "discount_rate": 23,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/08/90/a2/363d1d9806477198f426a49ec53b3843.jpg",
+    "rating_average": 4.8
+  },
+  "160375101": {
+    "id": 160375101,
+    "price": 73000,
+    "discount_rate": 34,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f3/3e/14/1cda9a63284406170df829916ae52fa9.jpg",
+    "rating_average": 4.5
+  },
+  "161409481": {
+    "id": 161409481,
+    "price": 351000,
+    "discount_rate": 6,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/49/a4/a5/7abad56f3fa4152161f49953c1530a78.png",
+    "rating_average": 4.6
+  },
+  "161409483": {
+    "id": 161409483,
+    "price": 259000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/58/b2/b8/9deeb2d9d8ba9ad1539f3e84fbaeb29c.png",
+    "rating_average": 5
+  },
+  "161615853": {
+    "id": 161615853,
+    "price": 350000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5d/75/6a/95923329ed657c85ba585499a88aba69.jpg",
+    "rating_average": 5
+  },
+  "162181800": {
+    "id": 162181800,
+    "price": 72200,
+    "discount_rate": 27,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/94/3c/63/4983f7ba98914b39e33ddfd0ae280d37.jpg",
+    "rating_average": 4.95
+  },
+  "164021643": {
+    "id": 164021643,
+    "price": 210000,
+    "discount_rate": 16,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/54/d1/08/498932fa723fd77c5be6e60468b540f3.jpg",
+    "rating_average": 4.45
+  },
+  "164430616": {
+    "id": 164430616,
+    "price": 333000,
+    "discount_rate": 22,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/0e/7b/39/8ea45b00a1fbbd6d14c422b52c816700.png",
+    "rating_average": 4.8
+  },
+  "165277612": {
+    "id": 165277612,
+    "price": 79000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/90/00/32/a685f87e3a9881c657013d3da2631223.jpg",
+    "rating_average": 5
   },
   "165669944": {
     "id": 165669944,
     "price": 147000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/34/45/47/63f2ebf783d863bce9299f5d33f216e3.jpg",
-    "name": "Sỉ 1 Thùng 300 Cái Khẩu Trang KF 94 Người Lớn Có Nhiều Màu Chọn Lựa"
+    "rating_average": 0
   },
-  "166389506": {
-    "id": 166389506,
-    "price": 2108000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c6/66/f6/0b1ad0c903277e49ca31d8630c68770f.jpg",
-    "name": "Điện thoại Samsung Galaxy A03 Core (2GB/32GB) - Hàng chính hãng - ĐÃ KÍCH HOẠT BẢO HÀNH ĐIỆN TỬ"
+  "165683421": {
+    "id": 165683421,
+    "price": 79900,
+    "discount_rate": 29,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5f/53/1c/2bb1864bf9f684a64761006d7dda605e.jpg",
+    "rating_average": 4.7
   },
-  "167452470": {
-    "id": 167452470,
-    "price": 19500,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/62/8a/74/22b51332dc80cd4abe875e8789cbba28.png",
-    "name": "Ô tô đồ chơi trẻ em siêu xe mini bằng sắt lật nhảy 360 độ chạy đà siêu ngầu cho bé"
+  "167010776": {
+    "id": 167010776,
+    "price": 4879000,
+    "discount_rate": 20,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bd/40/0a/41776ea880b6a0b70c3f2be7e9fb6bf1.jpg",
+    "rating_average": 0
   },
-  "167484717": {
-    "id": 167484717,
-    "price": 296000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f1/4d/1a/884d146373e9b742818f06079c55c4ad.jpg",
-    "name": "Áo Thun Tay Ngắn In Hình Cô Gái Hồi Giáo Cho Nữ"
+  "167420405": {
+    "id": 167420405,
+    "price": 169000,
+    "discount_rate": 58,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/aa/e8/34/c6f01c9668d8d524cff6deddcda37d3d.png",
+    "rating_average": 4.8
   },
-  "167687051": {
-    "id": 167687051,
-    "price": 399000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/c2/cf/30/9d8484c1910990810de7924961372855.png",
-    "name": "Tã quần Huggies Dry Tràm Trà Tự Nhiên MEGA JUMBO + Tặng 6 miếng"
+  "168084779": {
+    "id": 168084779,
+    "price": 15000,
+    "discount_rate": 40,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b9/61/05/0b4cac49cd79c6b6f9ab734e7f50392c.jpg",
+    "rating_average": 4.95
+  },
+  "168313503": {
+    "id": 168313503,
+    "price": 34000,
+    "discount_rate": 32,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9a/1d/a9/28bd9e55dd5f85a00c356cde99de8582.png",
+    "rating_average": 5
   },
   "168561579": {
     "id": 168561579,
     "price": 39900,
+    "discount_rate": 42,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1b/1a/b8/d2d5a66c7c56e26747f2f474d8b3ee0f.jpg",
-    "name": "Chả giò thịt đặc biệt G-Kitchen Đông Lạnh 400g"
+    "rating_average": 5
   },
   "168561697": {
     "id": 168561697,
     "price": 37900,
+    "discount_rate": 26,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/dc/2d/1f/31f5a2d129ae29714f56dafd2c9ec531.jpg",
-    "name": "Jambon Xông Khói G-Kitchen 200g"
+    "rating_average": 5
   },
-  "168564753": {
-    "id": 168564753,
-    "price": 7000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b9/a3/85/26ead0221be86014fe8b8ebfd8b60577.png",
-    "name": "Tất Cổ Cao Sợi Tre Cao Cấp, Vớ Nam Đi Giày Tây Vải Sợi Tre Mềm Mịn, Thoáng Mát - GOMTAT-TRECAO-1DOI"
+  "169065592": {
+    "id": 169065592,
+    "price": 2400,
+    "discount_rate": 23,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/19/e0/0f/56d599fc61a3ac7bafe22d3f4d2dad3a.jpg",
+    "rating_average": 4.3
   },
-  "168573161": {
-    "id": 168573161,
-    "price": 259000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/55/e9/d4/533bb58e50a8bc4ce8ff936045f69091.jpg",
-    "name": "Áo thun polo nam Biman by Biluxury 5APCB011 Chất vải coolmax cao cấp thoáng khí không nhăn xù,nhiều màu sắc "
-  },
-  "169067559": {
-    "id": 169067559,
-    "price": 1400,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e1/2d/93/8fb6e37f9ffcdfedaec7075f9f4ae033.jpg",
-    "name": "Hộp carton đóng hàng 16x12x6 cm - giá xưởng"
+  "169489327": {
+    "id": 169489327,
+    "price": 45600,
+    "discount_rate": 37,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a5/bf/d2/e7e3d35b769a02a8441196ab2bcadf56.jpg",
+    "rating_average": 4.6
   },
   "169534421": {
     "id": 169534421,
     "price": 41500,
+    "discount_rate": 31,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/db/cc/63/b12fd949bc3d7b74f2d75516ff5a93b6.jpg",
-    "name": "Thịt Xay Heo Meat Master 400gr"
+    "rating_average": 5
   },
   "169543533": {
     "id": 169543533,
     "price": 69000,
+    "discount_rate": 13,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c7/b2/a4/2ea3f36050f1ac4b44b5bd842c44e224.jpg",
-    "name": "Ba Rọi Heo Meat Master 400gr"
+    "rating_average": 4.8
   },
   "169550659": {
     "id": 169550659,
     "price": 9900,
+    "discount_rate": 43,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e2/7b/46/d305ee4cc89e93a0023184d2dec0207c.jpg",
-    "name": "Chanh không hạt túi lưới Mekostar (500g)"
+    "rating_average": 4.8
+  },
+  "169628956": {
+    "id": 169628956,
+    "price": 309000,
+    "discount_rate": 31,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/20/f7/fc/dad9d16224979859b01831d49732abe5.jpg",
+    "rating_average": 5
+  },
+  "170024949": {
+    "id": 170024949,
+    "price": 49000,
+    "discount_rate": 29,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d7/7f/13/96d19d37f8cd9fbdfdd2aec8481dfc3f.jpg",
+    "rating_average": 4.95
+  },
+  "171544701": {
+    "id": 171544701,
+    "price": 139000,
+    "discount_rate": 37,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/47/01/34/a30cf8fab3733c083f6d3a663ea8c1a8.png",
+    "rating_average": 4.7
+  },
+  "171549981": {
+    "id": 171549981,
+    "price": 168000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/28/81/a2/3814b33a6cd24f60c4ccb441b4919ec8.jpg",
+    "rating_average": 0
   },
   "171809911": {
     "id": 171809911,
-    "price": 320000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/2c/be/4a/44b3593d65d939fb6ae7bb184327ea30.png",
-    "name": "Tã Quần Huggies Dry Tràm Trà Tự Nhiên Gói Cực Đại XL62/XXL56 + Tặng 6 miếng"
+    "price": 338000,
+    "discount_rate": 21,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/f6/89/37/e69d91b306b658e674035721e74f123e.png",
+    "rating_average": 4.95
   },
-  "171816967": {
-    "id": 171816967,
-    "price": 27000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/08/b7/a0/e0bee30c2b1ff12924df293ca7d17da2.png",
-    "name": "Cháo Tươi Sài Gòn Food Cá Hồi & Đậu Hà Lan 240g"
+  "171871501": {
+    "id": 171871501,
+    "price": 99000,
+    "discount_rate": 53,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/df/bc/10/7ff1a3c75852b061f69ee70b05c3da8b.png",
+    "rating_average": 4.7
   },
-  "171934203": {
-    "id": 171934203,
-    "price": 7680000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b0/59/b6/def8e2587c37105f4d6a6863d5a63859.jpg",
-    "name": "Điện thoại Samsung Galaxy A53 5G (8GB/128GB) - Hàng chính hãng - ĐÃ KÍCH HOẠT BẢO HÀNH ĐIỆN TỬ"
+  "172072606": {
+    "id": 172072606,
+    "price": 99000,
+    "discount_rate": 49,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/98/43/7e/7696879ba2ec2bb9e0d92f4bb664dd4e.jpg",
+    "rating_average": 4.8
+  },
+  "172280439": {
+    "id": 172280439,
+    "price": 127000,
+    "discount_rate": 9,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/04/7a/5d/57e68c3ec6f8d409b30aa0d6a23d9ccd.jpg",
+    "rating_average": 5
+  },
+  "172342121": {
+    "id": 172342121,
+    "price": 29000,
+    "discount_rate": 62,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/49/1e/e9/764bf0907cf7204ad574f10de469ae92.jpg",
+    "rating_average": 4.6
   },
   "172931691": {
     "id": 172931691,
-    "price": 34000,
+    "price": 29000,
+    "discount_rate": 24,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5c/ef/69/2bc6d991dc26a3ce5095f5825ae9bd3d.jpg",
-    "name": "Pizza Manna Hải Sản Vị Ý Đông Lạnh 120g"
+    "rating_average": 4.95
+  },
+  "173003270": {
+    "id": 173003270,
+    "price": 192000,
+    "discount_rate": 57,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e1/bb/67/77d2e4edca453e51a043448a8448aa5f.jpg",
+    "rating_average": 0
+  },
+  "173195598": {
+    "id": 173195598,
+    "price": 23000,
+    "discount_rate": 4,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b7/0b/ea/e5d37a16771e492579ba0217b53cb170.jpg",
+    "rating_average": 4.45
   },
   "173359821": {
     "id": 173359821,
     "price": 9900,
+    "discount_rate": 29,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/55/6a/af/aced1c3c09d564094104f615c6e90011.jpg",
-    "name": "Cà Tím Dài VietGap 500g"
+    "rating_average": 5
   },
   "173360693": {
     "id": 173360693,
-    "price": 23500,
+    "price": 19900,
+    "discount_rate": 28,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a3/70/c6/bcfbdd987519560f3449c1fffd8b7607.jpg",
-    "name": "Khoai Lang Mật VietGap 500g"
+    "rating_average": 3.6
   },
   "173360696": {
     "id": 173360696,
-    "price": 22900,
+    "price": 26500,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bf/73/d9/1152aa707a735da044c2ae08630acae0.jpg",
-    "name": "Khoai Lang Nhật VietGap 1kg"
+    "rating_average": 4.95
+  },
+  "173386969": {
+    "id": 173386969,
+    "price": 6900,
+    "discount_rate": 8,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f0/87/6b/4443c3833c6abdf8998926aabb8d5a28.jpg",
+    "rating_average": 5
   },
   "173472439": {
     "id": 173472439,
     "price": 29000,
+    "discount_rate": 41,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7a/bd/e6/cab67c78e182a33953b35b442ca9b427.jpg",
-    "name": "Combo 3 Trái Dừa Xiêm Gọt Trọc Size 350 - 400g"
+    "rating_average": 4.7
   },
-  "173964888": {
-    "id": 173964888,
-    "price": 11500,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ee/de/99/a4dfd7321d8a04e3be9a2b03ede051f5.jpg",
-    "name": "Dưa Leo VietGap 500g"
+  "173878704": {
+    "id": 173878704,
+    "price": 699000,
+    "discount_rate": 37,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/be/83/cd/128478199d64b3daea5623aaeb2591ea.jpg",
+    "rating_average": 5
   },
-  "174469215": {
-    "id": 174469215,
-    "price": 66000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/02/e4/38/b0c19f06b86e16d7f8822c81cea72a0a.png",
-    "name": "Trà dây thìa canh tiểu đường Mộc Can giúp giảm đường huyết ngăn ngừa những biến chứng của bênh tiểu đường hộp 25 túi lọc"
+  "174215331": {
+    "id": 174215331,
+    "price": 300000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4c/96/7a/b4e0c6f09091ff1b94b29d05c823a1a1.jpg",
+    "rating_average": 4.5
+  },
+  "174294337": {
+    "id": 174294337,
+    "price": 47000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/54/f0/09/e01fa80da2f214b6ff42f1803c0dbdbd.png",
+    "rating_average": 4.7
   },
   "174593316": {
     "id": 174593316,
     "price": 39000,
+    "discount_rate": 18,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d9/6e/f0/89551611460924c2f496c5d1c09dfc97.jpg",
-    "name": "Ức Fillet Gà CP 500g"
+    "rating_average": 5
   },
-  "176251694": {
-    "id": 176251694,
-    "price": 19890,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/90/1f/de/69a5aa4a5dfcd277da6e42ab2c0574d7.jpg",
-    "name": "Vớ chân dài qua đầu gối nữ màu da, xỏ ngón , thun cotton ,thương hiệu T&T - TRỊNH TRUNG , ảnh thật"
+  "176060005": {
+    "id": 176060005,
+    "price": 19000,
+    "discount_rate": 24,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3a/24/c8/4d416b879bf229239e18af51c27cc3e4.jpg",
+    "rating_average": 5
   },
   "176587580": {
     "id": 176587580,
     "price": 44000,
+    "discount_rate": 20,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/61/70/a8/696e25cf0ac1722179075294fb6adf51.jpg",
-    "name": "Chả Viên Thát Lát Hapi 200g"
+    "rating_average": 5
+  },
+  "176589995": {
+    "id": 176589995,
+    "price": 38000,
+    "discount_rate": 32,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ac/fd/23/a40f29aab72433590ab52c0aa22c7f12.jpg",
+    "rating_average": 3
+  },
+  "176664112": {
+    "id": 176664112,
+    "price": 499000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/55/b6/e9/0c3a3a587296e83b52abe19a676abb42.jpg",
+    "rating_average": 4.5
+  },
+  "176909221": {
+    "id": 176909221,
+    "price": 139200,
+    "discount_rate": 20,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b2/02/d8/216624ab5e54d0f15d4ac3bfb6e968a7.jpg",
+    "rating_average": 4.95
   },
   "176909485": {
     "id": 176909485,
     "price": 14900,
+    "discount_rate": 32,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/56/8b/93/57b989d9a1c671b087bca3b0f6585c38.jpg",
-    "name": "Trứng Gà TikiNgon Choice hộp 6"
+    "rating_average": 4.8
+  },
+  "177163752": {
+    "id": 177163752,
+    "price": 18000,
+    "discount_rate": 25,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d0/a1/b2/2602bb9833e7d989fa54f288572f22b0.png",
+    "rating_average": 4.8
   },
   "177187701": {
     "id": 177187701,
     "price": 38900,
+    "discount_rate": 21,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c6/fd/3d/4fc0b56cea961471920386da0d6b9d76.jpg",
-    "name": "Phô Mai Que Manna - 250g"
+    "rating_average": 0
   },
   "177287209": {
     "id": 177287209,
     "price": 29900,
+    "discount_rate": 23,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f7/64/29/27ca67668525814bd1956f3fffed0821.jpg",
-    "name": "Pizza Manna Thịt Gà & Thịt Ba Rọi - 120g"
+    "rating_average": 5
   },
   "177337002": {
     "id": 177337002,
     "price": 99000,
+    "discount_rate": 41,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/63/99/c6/ae8325008076acb2295fd68b0261032e.jpg",
-    "name": "Cá Hồi Tươi Phi Lê 200g"
-  },
-  "177487151": {
-    "id": 177487151,
-    "price": 111300,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3a/36/15/fcd5d7c1e963e66f686061393793d9b8.jpg",
-    "name": "Nếu Biết Trăm Năm Là Hữu Hạn"
+    "rating_average": 4.8
   },
   "177714132": {
     "id": 177714132,
-    "price": 52000,
+    "price": 43900,
+    "discount_rate": 32,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/44/4b/cc/fdd67045de3426ddd2e7973c7de293b4.jpg",
-    "name": "Đùi tỏi gà đông lạnh BA HUÂN - Gói 500g"
-  },
-  "178031917": {
-    "id": 178031917,
-    "price": 19900,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/20/34/90/9b1d79f72aaa960970016b3657ddeed9.jpg",
-    "name": "Bắp Cải Trắng Đà Lạt GlobalGAP 1kg"
+    "rating_average": 5
   },
   "178031931": {
     "id": 178031931,
     "price": 15900,
+    "discount_rate": 35,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6a/06/7d/be96085365b3d6146840ee53f8303065.jpg",
-    "name": "Cà Chua Beefsteak GlobalGAP 500g"
+    "rating_average": 5
   },
   "178032405": {
     "id": 178032405,
     "price": 19000,
+    "discount_rate": 17,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/29/3c/21/b70f27f4097688fe51b2895920663f4a.jpg",
-    "name": "Cà Rốt Đà Lạt GlobalGAP 500g"
+    "rating_average": 4.95
   },
   "178032408": {
     "id": 178032408,
     "price": 12900,
+    "discount_rate": 32,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/75/5c/90/5404f62fad9f71f361653389527df282.jpg",
-    "name": "Dưa Leo Baby GlobalGAP 500g"
+    "rating_average": 5
   },
-  "178061626": {
-    "id": 178061626,
-    "price": 14000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f0/f7/cc/469873cb5a84c2fb29419b1af72c851f.jpg",
-    "name": "(Chỉ bán HN) KHOAI LỆ PHỐ 350g - MÓN NGON NHẤT ĐỊNH PHẢI THƯỞNG THỨC"
+  "178061577": {
+    "id": 178061577,
+    "price": 11000,
+    "discount_rate": 69,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/45/bc/8c/9c5e53a2f9301b162e75cf185b222bde.jpg",
+    "rating_average": 5
   },
-  "178483666": {
-    "id": 178483666,
-    "price": 155350,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a7/2d/1b/4c9949b15b101f61fa8cf42f05ed4490.jpg",
-    "name": "Những Lời Giáo Huấn Của Epictetus"
+  "178537025": {
+    "id": 178537025,
+    "price": 69000,
+    "discount_rate": 13,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/5a/e5/c6/d1d912ae57cd03f5002dff97b02ce024.jpg",
+    "rating_average": 4.5
   },
-  "178514774": {
-    "id": 178514774,
-    "price": 74237,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cd/8f/ff/04e3736fba028a95636ed7fec79ca3ba.jpg",
-    "name": "ÁO POLO NỮ ÁO THUN NỮ ÁO PHÔNG NỮ CỔ VIỀN XANH"
+  "178559962": {
+    "id": 178559962,
+    "price": 74000,
+    "discount_rate": 8,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4e/e6/c4/6fd38b6e9a22529c357958879b761ce1.jpg",
+    "rating_average": 4.7
   },
   "179687981": {
     "id": 179687981,
     "price": 15900,
+    "discount_rate": 36,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e2/1b/83/7c43a54c829d966f876f01d6920580ec.jpg",
-    "name": "Khoai Lang Giống Nhật GLOBAL GAP - 500g"
+    "rating_average": 5
   },
   "179695543": {
     "id": 179695543,
     "price": 15900,
+    "discount_rate": 21,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/af/34/68/2fd74b0a9c105c545ba0eaf5cdc378ac.jpg",
-    "name": "Cà Rốt Đà Lạt GLOBAL GAP - 500g"
+    "rating_average": 5
   },
   "179930010": {
     "id": 179930010,
     "price": 49000,
+    "discount_rate": 29,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3a/b4/a1/a906c6a2af0e80ec40950b2a82d854a7.jpg",
-    "name": "Dồi Sụn VIDELI - 500g"
+    "rating_average": 5
   },
   "179930014": {
     "id": 179930014,
     "price": 62900,
+    "discount_rate": 16,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/70/44/c0/50e22e987fd3a97e559a95f40a3c02a8.jpg",
-    "name": "Sủi Cảo Nhân Thịt VIDELI - 1kg"
+    "rating_average": 5
   },
   "179978830": {
     "id": 179978830,
-    "price": 20900,
+    "price": 27000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/53/24/6b/17d7bee7204297d2cd137b8a29e761e5.jpg",
-    "name": "Cà Chua Beefsteak GLOBAL GAP - 500g"
+    "rating_average": 5
   },
-  "179980877": {
-    "id": 179980877,
-    "price": 488500,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/96/64/54/bdd413a77127d24e7dc4a607e6425087.png",
-    "name": "Nạp tiền điện thoại Mobifone 500K"
+  "179980125": {
+    "id": 179980125,
+    "price": 156000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/39/36/8e/49c5d9b68898b124b6081db7eb518ceb.jpg",
+    "rating_average": 4.95
   },
-  "179980900": {
-    "id": 179980900,
-    "price": 195800,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/65/dc/32/f0fa97613b823aad0509e89fc4760a51.png",
-    "name": "Nạp tiền điện thoại Viettel 200K"
+  "179980903": {
+    "id": 179980903,
+    "price": 20000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/56/a7/ea/684c7d700ff603a554262ebb53e2ff90.png",
+    "rating_average": 0
   },
-  "179980909": {
-    "id": 179980909,
-    "price": 283800,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/54/7e/c6/a1280393a5bf6df9c5851645b138cb1f.png",
-    "name": "Nạp tiền điện thoại Vietnamobile 300K"
+  "179980921": {
+    "id": 179980921,
+    "price": 30000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/84/0b/38/3159cd5f019bd9eb7d33eb8da071f44e.png",
+    "rating_average": 5
+  },
+  "179980955": {
+    "id": 179980955,
+    "price": 10000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c1/6a/26/be9fb981fde98c7e9c9cf49d9a0d6bae.png",
+    "rating_average": 5
   },
   "179981006": {
     "id": 179981006,
     "price": 10000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/41/44/60/4417254d1e4684d37f59b56ebd5b42c5.png",
-    "name": "Nạp tiền điện thoại Vietnamobile 10K"
+    "rating_average": 0
   },
   "179981013": {
     "id": 179981013,
     "price": 97900,
+    "discount_rate": 2,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7d/64/cb/9c69f5d6b413f0be1cf6c08b93545168.png",
-    "name": "Nạp tiền điện thoại Viettel 100K"
+    "rating_average": 4.95
+  },
+  "179981048": {
+    "id": 179981048,
+    "price": 10000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/2d/98/86/e19a95dd22822f8e4a119bd9b1270c99.png",
+    "rating_average": 4.95
+  },
+  "179981149": {
+    "id": 179981149,
+    "price": 96700,
+    "discount_rate": 3,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/bf/a7/53/352a395178afc313444c247f0a56fa37.png",
+    "rating_average": 4.7
+  },
+  "179981238": {
+    "id": 179981238,
+    "price": 94600,
+    "discount_rate": 5,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d6/73/93/10140e0de0ebf15f71b4843d61548b55.png",
+    "rating_average": 5
   },
   "179983203": {
     "id": 179983203,
     "price": 478000,
+    "discount_rate": 4,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b1/f7/12/48afaa87a3117cfb1fbd238ead35e30b.png",
-    "name": "Nạp tiền điện thoại Gmobile 500K"
+    "rating_average": 0
   },
-  "179983208": {
-    "id": 179983208,
-    "price": 10000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/4f/6b/c7/6bb169d3b2020dcd4ba29c4ef524b6d6.png",
-    "name": "Nạp tiền điện thoại Gmobile 10K"
+  "179988643": {
+    "id": 179988643,
+    "price": 131000,
+    "discount_rate": 16,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/7c/42/be/53a7982da8589efc7760c1a0b7f44b0a.jpg",
+    "rating_average": 5
   },
-  "180226523": {
-    "id": 180226523,
-    "price": 5000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9b/a6/f0/93ef86bd38532aa50023baf7dc94eede.jpg",
-    "name": "Combo Mix các vị Kẹo Socola sữa và Kẹo socola đen FIGO ( ĐỒ ĂN VẶT NỘI ĐỊA VIỆT NAM )"
+  "179994082": {
+    "id": 179994082,
+    "price": 269000,
+    "discount_rate": 33,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/34/01/60/521b2d8c516430254bda066890e020a3.jpg",
+    "rating_average": 5
+  },
+  "180103221": {
+    "id": 180103221,
+    "price": 547000,
+    "discount_rate": 4,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/48/46/b1/76627963eaadcaf403b52badc9bf2121.PNG",
+    "rating_average": 4.7
+  },
+  "180590962": {
+    "id": 180590962,
+    "price": 50000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6d/2d/ba/a9799ea3f06b8211d0ea1f65a01ab201.jpg",
+    "rating_average": 4.7
   },
   "180852550": {
     "id": 180852550,
     "price": 99000,
+    "discount_rate": 34,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/30/a8/32/2bd6056c353ea9ff534bbe6c4ec27b78.jpg",
-    "name": "Kiwi Vàng Sungold Zespri 600g"
+    "rating_average": 5
   },
   "180973004": {
     "id": 180973004,
-    "price": 29900,
+    "price": 39000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/43/b3/18/9756d19bf6fb3e646400506eb771a3ff.jpg",
-    "name": "Cóc Non Giống Thái Đồng Tháp - 1kg"
+    "rating_average": 5
   },
   "180973008": {
     "id": 180973008,
     "price": 67500,
+    "discount_rate": 10,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cc/c8/0d/94ed7cdc59646cdbc06cd156adb632fc.jpg",
-    "name": "Dưa Lưới Giống Nhật - Quả 1.0 - 1.2kg"
-  },
-  "182100666": {
-    "id": 182100666,
-    "price": 137000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b8/ac/e7/e201d5b6efe66d4edc1e34f4cf294e81.jpg",
-    "name": "Áo thun nữ GUMAC ATC06022 - ATC06023 - ATC06024 - ATC06025 - ATC06026 - ATC06027 in chữ cá tính"
+    "rating_average": 2.5
   },
   "182551031": {
     "id": 182551031,
     "price": 139000,
+    "discount_rate": 22,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b3/41/34/fd36ffa0fdcb8b1cddc33fddb82809bb.jpg",
-    "name": "Cherry Đỏ Hộp 250g"
+    "rating_average": 4.95
   },
-  "182814189": {
-    "id": 182814189,
-    "price": 17900,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d4/e3/50/fb5ae89d45a29468c2ecf302fc827318.jpg",
-    "name": "Chanh dây Mekostar - Túi 500g"
+  "183251419": {
+    "id": 183251419,
+    "price": 514000,
+    "discount_rate": 16,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/media/catalog/product/tmp/5c/3b/48/0228a90fac71d2f50ebd03b81beecbc2.png",
+    "rating_average": 4.7
   },
-  "182814191": {
-    "id": 182814191,
-    "price": 16900,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/82/d6/f4/cf81d6703ee39865e620669f4eb01e78.jpg",
-    "name": "Chanh không hạt túi lưới - Túi 500g"
+  "183260638": {
+    "id": 183260638,
+    "price": 777000,
+    "discount_rate": 45,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/0f/71/33/cc9c0c0c521aa0518f2a3a43b58cccbf.jpg",
+    "rating_average": 4.8
   },
-  "183691492": {
-    "id": 183691492,
-    "price": 150000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9b/8d/e5/22a344e707c338233206fac756fc7d5f.jpg",
-    "name": "Quần Âu Nam Hàn Quốc Màu Đen Mẫu Mới 2022"
+  "183498218": {
+    "id": 183498218,
+    "price": 89000,
+    "discount_rate": 50,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/63/d9/c3/7e38d660fc749bff4eae2439ec944f3a.jpg",
+    "rating_average": 4.45
+  },
+  "183678934": {
+    "id": 183678934,
+    "price": 7000,
+    "discount_rate": 53,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c7/03/e5/e9daaa39a146847af97831696d200ce6.jpg",
+    "rating_average": 0
+  },
+  "183891785": {
+    "id": 183891785,
+    "price": 179000,
+    "discount_rate": 50,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7b/c9/5e/87c8f48352b7cb900da2a54dc8278976.jpg",
+    "rating_average": 5
   },
   "184058811": {
     "id": 184058811,
-    "price": 24990000,
+    "price": 25320000,
+    "discount_rate": 16,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f4/60/cc/da5384b960bae1effd0b79682c35bb2c.jpg",
-    "name": "Apple iPhone 13 Pro"
+    "rating_average": 4.95
   },
-  "184061913": {
-    "id": 184061913,
-    "price": 26990000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f1/48/7b/ef489f1e97a2d9baff20d13dc26bd267.jpg",
-    "name": "Apple iPhone 13 Pro Max"
-  },
-  "184070223": {
-    "id": 184070223,
-    "price": 122200,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/96/2a/bc/18aeb176583568be480266721a3ebc1a.jpg",
-    "name": "OSHO - Cảm Xúc"
-  },
-  "184475053": {
-    "id": 184475053,
-    "price": 120000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e3/0d/78/9d6a1827965aafd6e306745933926984.jpg",
-    "name": "Sa Vào Ánh Hào Quang Của Người – Tập 1"
+  "184096092": {
+    "id": 184096092,
+    "price": 77000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7a/e3/b3/d62b5e8e4b028463412dea54460a24d6.jpg",
+    "rating_average": 5
   },
   "184781874": {
     "id": 184781874,
     "price": 68900,
+    "discount_rate": 37,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c0/a7/82/7b71729b7abcbecaf0e4d1337ac9b86d.jpg",
-    "name": "Hạt Macadamia rang tách nứt DAKADO - Hộp giấy 250g"
-  },
-  "185211089": {
-    "id": 185211089,
-    "price": 929000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/00/55/8b/14c02250920d757caab4990d835a65a4.jpg",
-    "name": "Mũ BKN High Frequency Decoration Overfit Ball Cap CURVED CAP OVER - Nón lưỡi trai thời trang cho nam, nữ, unisex"
-  },
-  "185211116": {
-    "id": 185211116,
-    "price": 856000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a4/e4/13/cac11c7a74630603204942bb6d5ee15e.jpg",
-    "name": "Mũ NBA PLAY SOFT CURVED CAP-B - Nón lưỡi trai thời trang cho nam, nữ, unisex"
+    "rating_average": 5
   },
   "185290606": {
     "id": 185290606,
     "price": 14900,
+    "discount_rate": 32,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/d6/8f/ce/0473cf81c0ced1ba18373465bf34f7b3.jpg",
-    "name": "Trứng Gà TikiNGON - Hộp 6"
+    "rating_average": 4.8
   },
-  "185445030": {
-    "id": 185445030,
-    "price": 52200,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/be/8e/5e/60b22da217ece7fb74611f5e29f772d5.jpg",
-    "name": "Monster #8 - Tập 2"
+  "185433776": {
+    "id": 185433776,
+    "price": 42500,
+    "discount_rate": 32,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/8e/20/42/7009450a79e4b4201aeba96c1a1314e4.jpg",
+    "rating_average": 5
   },
   "185634992": {
     "id": 185634992,
-    "price": 17500,
+    "price": 20000,
+    "discount_rate": 0,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/da/0c/07/0edb818781f9c106a08f1d16597cffa8.jpg",
-    "name": "Bí Cô Tiên (Bí Hồ Lô Dài) VietGap 600g-700g"
-  },
-  "185656701": {
-    "id": 185656701,
-    "price": 7500,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ea/c8/93/75f48e0716304e1cc3f1d76beeb8d709.jpg",
-    "name": "Dây buộc tóc vải scrunchies dễ thương phụ kiện thời trang nữ, cột tóc phong cách Hàn Quốc đáng yêu -storevanshop CT0001"
+    "rating_average": 5
   },
   "186090855": {
     "id": 186090855,
-    "price": 33200,
+    "price": 25500,
+    "discount_rate": 35,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/02/c6/2b/1f2e8b4efbac5ffebfac57d129704121.jpg",
-    "name": "Dừa Nắp Khoen KAMICONUT Size M - Quả 480 - 600g"
+    "rating_average": 5
   },
   "186090859": {
     "id": 186090859,
     "price": 59900,
+    "discount_rate": 33,
     "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f4/8c/ce/ebbde9c1a1a4d6a214d3f0dee45162c7.jpg",
-    "name": "Combo 3 Quả Dừa Xiêm COCOKAMI - Quả 450 - 600g"
+    "rating_average": 5
   },
-  "186110263": {
-    "id": 186110263,
-    "price": 139000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/12/f7/c2/9bd05052de56fd8862fa4ed9f13efee5.jpg",
-    "name": "Bộ 2 sữa tắm Protex Icy Cool cực mát lạnh diệt khuẩn 99,9% 450ml/chai"
+  "186272720": {
+    "id": 186272720,
+    "price": 114000,
+    "discount_rate": 36,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/77/b4/fa/fe952730164c345600cbeb945c9f04a1.jpg",
+    "rating_average": 4.6
   },
-  "188128043": {
-    "id": 188128043,
-    "price": 40500,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3e/49/49/26157c6cf52f06b81dc0e88dbdc4128b.jpg",
-    "name": "Kingdom - Tập 29"
+  "186969826": {
+    "id": 186969826,
+    "price": 499000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e2/ec/fe/864e52eaaec8944faedea864a66f353a.png",
+    "rating_average": 0
   },
-  "188687021": {
-    "id": 188687021,
-    "price": 88000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/26/b0/3b/6fc9fc227601eb75597dbc9a15b48640.jpg",
-    "name": "Đêm Đã Sâu, Sao Em Chưa Tắt Đèn? -Tặng kèm bookmark + Postcard"
+  "187598435": {
+    "id": 187598435,
+    "price": 49000,
+    "discount_rate": 25,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/75/26/21/7de7c14d91f105c8b2c432b3fe7be05e.jpg",
+    "rating_average": 4.7
   },
-  "188829209": {
-    "id": 188829209,
-    "price": 185000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/9d/b3/65/9806168f3a2290b5695c87c6ddd84f8f.jpg",
-    "name": "Ổ Cắm Điện Thông Minh USB Cao Cấp Jodily StarHome"
+  "188997960": {
+    "id": 188997960,
+    "price": 299000,
+    "discount_rate": 0,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/fc/ee/a6/ec1cf53b91858c1110916c5e3d095d26.jpeg",
+    "rating_average": 5
   },
-  "188869429": {
-    "id": 188869429,
-    "price": 25000,
-    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3f/ce/99/95d9b4497acd01852211cbb1c42d31ce.jpg",
-    "name": "vape thuốc tử lá điện có sạc pin"
+  "190106187": {
+    "id": 190106187,
+    "price": 357000,
+    "discount_rate": 40,
+    "img_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e3/1e/4e/eaee7cbcf89cf5b7dfa1560376f33b94.jpg",
+    "rating_average": 0
   }
 }
