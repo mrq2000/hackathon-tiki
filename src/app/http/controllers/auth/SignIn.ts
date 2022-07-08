@@ -5,17 +5,16 @@ import { APP, Post } from '../../../helpers/decorator';
 import { validate } from '../../../helpers/validate';
 import * as authSchema from '../../validators/auth/signIn';
 
-@APP('/auth/sign-in')
+@APP('/auth')
 export default class SignIn {
-  @Post('/social')
-  async signInBySocial(req: Request, res: Response): Promise<void> {
+  @Post('sign-in')
+  async signIn(req: Request, res: Response): Promise<void> {
     const params = {
-      providerAccessToken: req.body.providerAccessToken,
-      providerName: req.body.providerName,
+      accessToken: req.body.accessToken,
     };
 
-    const formatParams = await validate(authSchema.signInBySocialSchema, params);
-    const responseData = await authService.signInBySocial(formatParams);
+    const formatParams = await validate(authSchema.signIn, params);
+    const responseData = await authService.signIn(formatParams);
     res.status(200).send(responseData);
   }
 }
