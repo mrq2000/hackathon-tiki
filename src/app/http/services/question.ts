@@ -6,7 +6,7 @@ import { QuestionType } from '../../enums/question';
 import products from '../../constant/products';
 
 export const createQuestion = async () => {
-  const ranNums = generateRandomNumber(1, 1108, 4);
+  const ranNums = generateRandomNumber(1, 1108, 5);
 
   const questions = await getRepository(Question).createQueryBuilder('').whereInIds(ranNums).getMany();
 
