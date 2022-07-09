@@ -6,8 +6,8 @@ import { APP, Get } from '../../../helpers/decorator';
 @APP('/questions')
 export default class Question {
   @Get('/')
-  async createQuestion(req: Request, res: Response): Promise<void> {
-    const responseData = await questionService.createQuestion();
+  async getQuestions(req: Request, res: Response): Promise<void> {
+    const responseData = await questionService.getQuestions();
     res.status(200).send(responseData);
   }
 }

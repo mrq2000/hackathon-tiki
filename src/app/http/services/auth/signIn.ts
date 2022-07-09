@@ -39,5 +39,5 @@ export const signIn = async ({ accessToken }: ISignIn) => {
 
   const backendAccessToken = jwt.generate({ userId: user.id });
 
-  return { backendAccessToken: backendAccessToken };
+  return { backendAccessToken: backendAccessToken, user };
 };
