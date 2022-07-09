@@ -13,6 +13,7 @@ jobs:
           known_hosts: 'none'
       - run: ssh-keyscan -H '172.104.182.12'  >> ~/.ssh/known_hosts
       - run: echo "${{ secrets.TEST_ENV }}" > ./.env
+      - run: rsync -azP --exclude='.git*' . ssh root@172.104.182.12:/var/www/hackathonBackend --delete
 
       - name: Cache node modules
         id: cache-nodemodules
@@ -33,5 +34,4 @@ jobs:
         run: yarn install
 
       - run: yarn build
-      - run: rsync -azP . ssh root@172.104.182.12:/var/www/hackathonBackend --delete
       - run: ssh root@172.104.182.12 "pm2 restart backend"

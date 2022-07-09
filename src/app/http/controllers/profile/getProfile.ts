@@ -5,7 +5,7 @@ import { APP, Get } from '../../../helpers/decorator';
 import auth from '../../middlewares/auth';
 
 @APP('/profile', [auth])
-export default class SignIn {
+export default class Profile {
   @Get('/')
   async getProfile(req: Request, res: Response): Promise<void> {
     const userInfo = req['user'];
