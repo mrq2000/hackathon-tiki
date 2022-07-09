@@ -10,7 +10,7 @@ export default class SignIn {
   @Post('/sign-in')
   async signIn(req: Request, res: Response): Promise<void> {
     const params = {
-      accessToken: req.body.accessToken,
+      authCode: req.body.authCode,
     };
 
     const formatParams = await validate(authSchema.signIn, params);
