@@ -30,4 +30,4 @@ export const getProfile = async (user) => {
 export const getAllProfileByRank = async () => {
   const users = getRepository(User).createQueryBuilder('user').orderBy('exp', 'DESC').getMany();
   return users;
-}
+};

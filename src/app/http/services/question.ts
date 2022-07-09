@@ -6,7 +6,7 @@ import { QuestionType } from '../../enums/question';
 import products from '../../constant/products';
 
 export const getQuestions = async () => {
-  const ranNums = generateRandomNumber(1, 1104, 5);
+  const ranNums = generateRandomNumber(1, 1044, 5);
 
   const questions = await getRepository(Question).createQueryBuilder('').whereInIds(ranNums).getMany();
 
@@ -18,7 +18,7 @@ export const getQuestions = async () => {
           type: question.type,
           data: {
             product: products[data.product],
-            options: data.options,
+            options: data.options.sort(() => Math.random() - 0.5),
           },
         };
       case QuestionType.CHOOSE_PRODUCT:
@@ -26,13 +26,13 @@ export const getQuestions = async () => {
           type: question.type,
           data: {
             ...data,
-            options: data.options.map((productId) => products[productId]),
+            options: data.options.sort(() => Math.random() - 0.5).map((productId) => products[productId]),
           },
         };
       case QuestionType.SORT_BY_PRICE:
         return {
           type: question.type,
-          data: data.map((productId) => products[productId]),
+          data: data.sort(() => Math.random() - 0.5).map((productId) => products[productId]),
         };
       case QuestionType.UP_OR_DOWN:
         return {
