@@ -2,6 +2,7 @@ import { getCurrentTaskDate } from './../../helpers/date';
 import { getRepository } from 'typeorm';
 
 import UserQuestion from '../../entities/UserQuestion';
+import User from '../../entities/User';
 
 export const getProfile = async (user) => {
   const userQuestionRepository = getRepository(UserQuestion);
@@ -25,3 +26,8 @@ export const getProfile = async (user) => {
     heart,
   };
 };
+
+export const getAllProfileByRank = async () => {
+  const users = getRepository(User).createQueryBuilder('user').orderBy('exp', 'DESC').getMany();
+  return users;
+}
