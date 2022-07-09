@@ -12,7 +12,7 @@ import { getProfile } from './profile';
 const SCORE_PER_QUESTION = 10;
 
 export const getQuestions = async () => {
-  const ranNums = generateRandomNumber(1, 1044, 5);
+  const ranNums = generateRandomNumber(1, 793, 5);
 
   const questions = await getRepository(Question).createQueryBuilder('').whereInIds(ranNums).getMany();
 
@@ -60,6 +60,8 @@ export const submitQuestion = async (task, user) => {
   const userId = user.id;
   const date = task.date;
   const questions = task.questions;
+  let gold = 0;
+  let exp = 0;
 
   const userQuestion = await getRepository(UserQuestion).findOne({
     user_id: userId,
@@ -82,7 +84,7 @@ export const submitQuestion = async (task, user) => {
   if (questions.length < 3) {
     data.heart = data.heart - 1;
   } else {
-    const score = Math.floor(
+    exp = Math.floor(
       questions.reduce((prev, question) => {
         return prev + SCORE_PER_QUESTION * (1 - question.time_answer / question.max_time_answer);
       }, 0),
@@ -93,17 +95,18 @@ export const submitQuestion = async (task, user) => {
         .createQueryBuilder()
         .update(user.id)
         .set({
-          exp: () => `exp + ${score}`,
+          exp: () => `exp + ${exp}`,
         })
         .execute();
     } else {
       data.taskFinish = data.taskFinish + 1;
+      gold = questions.length * 10;
       await getRepository(User)
         .createQueryBuilder()
         .update(user.id)
         .set({
-          exp: () => `exp + ${score}`,
-          gold: () => `gold + ${score}`,
+          exp: () => `exp + ${exp}`,
+          gold: () => `gold + ${gold}`,
         })
         .execute();
     }
@@ -126,5 +129,9 @@ export const submitQuestion = async (task, user) => {
   }
 
   const response = await getProfile(user);
-  return response;
+  return {
+    profile: response,
+    gold,
+    exp,
+  };
 };
