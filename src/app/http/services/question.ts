@@ -86,7 +86,7 @@ export const submitQuestion = async (task, user) => {
   } else {
     exp = Math.floor(
       questions.reduce((prev, question) => {
-        return prev + SCORE_PER_QUESTION * (1 - question.time_answer / question.max_time_answer);
+        return prev + SCORE_PER_QUESTION * (1 - question.time_answer / (2 * question.max_time_answer));
       }, 0),
     );
 
