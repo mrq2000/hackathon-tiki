@@ -1,9 +1,15 @@
+import { abort } from './../../helpers/error';
 import { generateRandomNumber } from './../../helpers/utils';
 import { getRepository } from 'typeorm';
 
 import Question from '../../entities/Question';
 import { QuestionType } from '../../enums/question';
 import products from '../../constant/products';
+import UserQuestion from '../../entities/UserQuestion';
+import User from '../../entities/User';
+import { getProfile } from './profile';
+
+const SCORE_PER_QUESTION = 10;
 
 export const getQuestions = async () => {
   const ranNums = generateRandomNumber(1, 1044, 5);
@@ -46,4 +52,79 @@ export const getQuestions = async () => {
   });
 
   return formatRes;
+};
+
+// Làm nhanh chưa nên viết hết vào 1 file, chưa có transaction;
+
+export const submitQuestion = async (task, user) => {
+  const userId = user.id;
+  const date = task.date;
+  const questions = task.questions;
+
+  const userQuestion = await getRepository(UserQuestion).findOne({
+    user_id: userId,
+    date,
+  });
+
+  let data: any = {
+    heart: 4,
+    taskFinish: 0,
+  };
+
+  if (userQuestion) {
+    data = JSON.parse(userQuestion.data);
+  }
+
+  if (data.heart == 0) {
+    abort(400, 'You run out your try');
+  }
+
+  if (questions.length < 3) {
+    data.heart = data.heart - 1;
+  } else {
+    const score = Math.floor(
+      questions.reduce((prev, question) => {
+        return prev + SCORE_PER_QUESTION * (1 - question.time_answer / question.max_time_answer);
+      }, 0),
+    );
+
+    if (data.taskFinish == 4) {
+      await getRepository(User)
+        .createQueryBuilder()
+        .update(user.id)
+        .set({
+          exp: () => `exp + ${score}`,
+        })
+        .execute();
+    } else {
+      data.taskFinish = data.taskFinish + 1;
+      await getRepository(User)
+        .createQueryBuilder()
+        .update(user.id)
+        .set({
+          exp: () => `exp + ${score}`,
+          gold: () => `gold + ${score}`,
+        })
+        .execute();
+    }
+  }
+
+  if (userQuestion) {
+    await getRepository(UserQuestion).update(userQuestion.id, {
+      data: JSON.stringify(data),
+    });
+  } else {
+    await getRepository(UserQuestion)
+      .createQueryBuilder()
+      .insert()
+      .values({
+        data: JSON.stringify(data),
+        user_id: user.id,
+        date,
+      })
+      .execute();
+  }
+
+  const response = await getProfile(user);
+  return response;
 };
