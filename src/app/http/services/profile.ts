@@ -1,4 +1,3 @@
-import { getCurrentTaskDate } from './../../helpers/date';
 import { getRepository } from 'typeorm';
 
 import UserQuestion from '../../entities/UserQuestion';
@@ -6,10 +5,14 @@ import User from '../../entities/User';
 
 export const getProfile = async (user) => {
   const userQuestionRepository = getRepository(UserQuestion);
-  const tasks = await userQuestionRepository.createQueryBuilder('user_question').where('user_id', user.id).getMany();
+
+  const tasks = await userQuestionRepository
+    .createQueryBuilder('user_question')
+    .where('user_question.user_id = :user_id', { user_id: user.id })
+    .getMany();
 
   const formatTasks = {};
-  const currentTaskDate = getCurrentTaskDate();
+  const currentTaskDate = 6;
   let heart = 4;
 
   tasks.forEach((task) => {

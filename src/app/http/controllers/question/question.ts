@@ -3,7 +3,7 @@ import { Request, Response } from 'express';
 import * as questionService from '../../services/question';
 import { APP, Get, Post } from '../../../helpers/decorator';
 import { validate } from '../../../helpers/validate';
-import * as queSchema from '../../validators/question';
+import * as questionSchema from '../../validators/question';
 import auth from '../../middlewares/auth';
 
 @APP('/questions')
@@ -23,7 +23,7 @@ export default class Question {
 
     const user = req['user'];
 
-    const formatTask = await validate(queSchema.submitQuestion, task);
+    const formatTask = await validate(questionSchema.submitQuestion, task);
     const responseData = await questionService.submitQuestion(formatTask, user);
     res.status(200).send(responseData);
   }

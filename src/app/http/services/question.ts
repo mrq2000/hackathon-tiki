@@ -58,7 +58,7 @@ export const getQuestions = async () => {
 
 export const submitQuestion = async (task, user) => {
   const userId = user.id;
-  const date = task.date;
+  const date = task.index;
   const questions = task.questions;
   let gold = 0;
   let exp = 0;
